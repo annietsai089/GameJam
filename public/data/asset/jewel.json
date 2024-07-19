@@ -1,0 +1,10 @@
+{
+  "name": "jewel",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb895-105c-4258-9e51-ef6210857357",
+  "fileKey": "jewel.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\jewel.glb"
+}

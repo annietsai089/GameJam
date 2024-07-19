@@ -1,0 +1,10 @@
+{
+  "name": "block-grass-corner-overhang-low",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb8d8-d990-4438-99f5-b9ee006110c9",
+  "fileKey": "block-grass-corner-overhang-low.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\block-grass-corner-overhang-low.glb"
+}

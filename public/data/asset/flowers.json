@@ -1,0 +1,10 @@
+{
+  "name": "flowers",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb88b-f1d4-45d1-b77c-4217acd0c7eb",
+  "fileKey": "flowers.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\flowers.glb"
+}

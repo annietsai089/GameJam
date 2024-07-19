@@ -1,0 +1,10 @@
+{
+  "name": "block-snow-large-slope-narrow",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb8ba-4ad4-41c1-bbd8-7a2b73bc5ff1",
+  "fileKey": "block-snow-large-slope-narrow.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\block-snow-large-slope-narrow.glb"
+}

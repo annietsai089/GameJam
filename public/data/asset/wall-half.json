@@ -1,0 +1,10 @@
+{
+  "name": "wall-half",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb7eb-f7f6-42a1-947e-9303ac086048",
+  "fileKey": "wall-half.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_castle-kit\\Models\\GLB format\\wall-half.glb"
+}

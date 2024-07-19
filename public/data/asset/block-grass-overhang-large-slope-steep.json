@@ -1,0 +1,10 @@
+{
+  "name": "block-grass-overhang-large-slope-steep",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb8f0-a994-43dc-827a-6309242e197c",
+  "fileKey": "block-grass-overhang-large-slope-steep.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\block-grass-overhang-large-slope-steep.glb"
+}

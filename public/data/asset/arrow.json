@@ -1,0 +1,10 @@
+{
+  "name": "arrow",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb8d2-e5da-477b-b6d1-f9ae7cd1f2c6",
+  "fileKey": "arrow.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\arrow.glb"
+}

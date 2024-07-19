@@ -1,0 +1,10 @@
+{
+  "name": "button-square",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb86a-f4ac-4b20-92c5-29370a020514",
+  "fileKey": "button-square.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\button-square.glb"
+}

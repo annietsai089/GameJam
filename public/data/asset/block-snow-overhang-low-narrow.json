@@ -1,0 +1,10 @@
+{
+  "name": "block-snow-overhang-low-narrow",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb8d2-5192-4d9f-bade-f9986dc36ea9",
+  "fileKey": "block-snow-overhang-low-narrow.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\block-snow-overhang-low-narrow.glb"
+}

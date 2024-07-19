@@ -1,0 +1,10 @@
+{
+  "name": "chest",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb86c-7dae-49a3-9e82-562db85ac5c8",
+  "fileKey": "chest.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\chest.glb"
+}

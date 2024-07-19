@@ -1,0 +1,10 @@
+{
+  "name": "block-grass-long",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb8e3-8bb0-4b30-bb22-8fb03bd16999",
+  "fileKey": "block-grass-long.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\block-grass-long.glb"
+}

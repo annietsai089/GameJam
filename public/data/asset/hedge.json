@@ -1,0 +1,10 @@
+{
+  "name": "hedge",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb892-2e1e-4036-9f64-93c53228d054",
+  "fileKey": "hedge.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\hedge.glb"
+}

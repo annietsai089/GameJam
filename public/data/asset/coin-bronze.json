@@ -1,0 +1,10 @@
+{
+  "name": "coin-bronze",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb86d-fc92-4dd4-9cc8-c08cc85f6d6f",
+  "fileKey": "coin-bronze.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\coin-bronze.glb"
+}

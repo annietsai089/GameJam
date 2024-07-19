@@ -1,0 +1,10 @@
+{
+  "name": "flag 1",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb88a-8ccc-4330-b934-3154e77bba8c",
+  "fileKey": "flag_1.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\flag.glb"
+}

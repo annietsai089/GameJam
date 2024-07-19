@@ -1,0 +1,10 @@
+{
+  "name": "bridge-straight",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb7ba-2226-44c1-9eae-db115402f684",
+  "fileKey": "bridge-straight.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_castle-kit\\Models\\GLB format\\bridge-straight.glb"
+}

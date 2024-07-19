@@ -1,0 +1,348 @@
+{
+  "id": "uuvu76i94",
+  "name": "demo",
+  "sceneId": "uuvu76i94",
+  "data": [
+    {
+      "id": "auto-sky",
+      "name": "Sky",
+      "type": "sky",
+      "sky": {
+        "materialId": null
+      }
+    },
+    {
+      "id": "auto-global-fog",
+      "name": "Global fog",
+      "type": "global_fog",
+      "fog": {
+        "type": "density",
+        "color": "#b8f8ff",
+        "density": 0.002,
+        "near": 100,
+        "far": 1000
+      }
+    },
+    {
+      "id": "3cbe66a7-9234-4447-b85b-03891430abc3",
+      "name": "block-grass-overhang-large-tall",
+      "assetId": "9c8fb83b-099a-49ee-ade0-df4a5e7baa0c",
+      "position": [
+        -0.043668189064900886,
+        2.6645352591003757e-15,
+        0
+      ],
+      "scale": [
+        0.885178787841511,
+        1,
+        1
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "6396da65-e8fc-4b15-a279-8c75dc01945a",
+      "name": "flag",
+      "assetId": "9c8fb7bb-99d0-4f73-a75d-68db848a0467",
+      "position": [
+        -194.7706560678318,
+        106.8620150758624,
+        -340.5512865187013
+      ],
+      "scale": [
+        12.273971730793974,
+        12.273971730793974,
+        12.273971730793974
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "5555ed82-7fd4-4a9b-887f-28cfad232663",
+      "name": "poles",
+      "assetId": "9c8fb84d-790e-4685-843b-9f3fa028bb72",
+      "position": [
+        -186.4161368856751,
+        108.01049500450263,
+        -405.174826308319
+      ],
+      "scale": [
+        6.905753039032164,
+        6.905753039032164,
+        6.905753039032164
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "953c8c7d-3eb5-4f00-8e80-2945f8f87754",
+      "name": "poles",
+      "assetId": "9c8fb84d-790e-4685-843b-9f3fa028bb72",
+      "position": [
+        -179.18351906529148,
+        107.84959003373764,
+        -405.3334162861717
+      ],
+      "scale": [
+        6.905753039032164,
+        6.905753039032164,
+        6.905753039032164
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "ba1d52a6-eb96-4ae8-8d67-157df464b2e0",
+      "name": "poles",
+      "assetId": "9c8fb84d-790e-4685-843b-9f3fa028bb72",
+      "position": [
+        -171.99999999999991,
+        107.99999999999994,
+        -405
+      ],
+      "scale": [
+        6.905753039032164,
+        6.905753039032164,
+        6.905753039032164
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "25a27aac-6357-4129-98a4-945fa240fd45",
+      "name": "poles",
+      "assetId": "9c8fb84d-790e-4685-843b-9f3fa028bb72",
+      "position": [
+        -164.99999999999997,
+        107.99999999999999,
+        -405
+      ],
+      "scale": [
+        6.905753039032164,
+        6.905753039032164,
+        6.905753039032164
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "b32c7469-52e4-47da-a6e3-b577dd6455f1",
+      "name": "poles",
+      "assetId": "9c8fb84d-790e-4685-843b-9f3fa028bb72",
+      "position": [
+        -157.74364039243295,
+        108.01049500450263,
+        -404.9694119922745
+      ],
+      "scale": [
+        6.905753039032164,
+        6.905753039032164,
+        6.905753039032164
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "25791be5-31a9-4ba6-a6da-af4a2c049250",
+      "name": "SpawnPoint",
+      "position": [
+        -175.377391335029,
+        109.07034091702086,
+        -402.0985910117822
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "actor",
+      "actor": {
+        "type": "SpawnPoint",
+        "innerParams": [
+          {
+            "path": [
+              "mesh"
+            ],
+            "params": {}
+          }
+        ],
+        "params": {}
+      }
+    },
+    {
+      "id": "b1c10b43-72d1-4cb6-be3e-461af7ff9f55",
+      "name": "TriggerVolume",
+      "position": [
+        -174.8,
+        109,
+        -334.6
+      ],
+      "scale": [
+        1.3,
+        1.6,
+        1
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "actor",
+      "actor": {
+        "type": "TriggerVolume",
+        "innerParams": [
+          {
+            "path": [
+              "trigger"
+            ],
+            "params": {}
+          },
+          {
+            "path": [
+              "trigger",
+              "editorMesh"
+            ],
+            "params": {}
+          }
+        ],
+        "params": {}
+      }
+    },
+    {
+      "id": "93e9a616-2401-4f59-8897-8af2b95f8475",
+      "name": "block-grass-large",
+      "assetId": "9c8fb8de-24b8-49de-865d-af9fdab988ba",
+      "position": [
+        -173.08774194568431,
+        61.532667570940625,
+        -371.28153509641106
+      ],
+      "scale": [
+        27.62908442391417,
+        45.65130206832209,
+        38.372328214382556
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    }
+  ]
+}

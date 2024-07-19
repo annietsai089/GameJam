@@ -1,0 +1,10 @@
+{
+  "name": "heart",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb890-6aa2-4f05-9a30-940a85c47da4",
+  "fileKey": "heart.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\heart.glb"
+}

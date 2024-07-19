@@ -1,0 +1,10 @@
+{
+  "name": "poles",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb84d-790e-4685-843b-9f3fa028bb72",
+  "fileKey": "poles.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\poles.glb"
+}

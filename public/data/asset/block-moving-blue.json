@@ -1,0 +1,10 @@
+{
+  "name": "block-moving-blue",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb8a7-285a-47ab-b837-933426f6a2dc",
+  "fileKey": "block-moving-blue.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\block-moving-blue.glb"
+}

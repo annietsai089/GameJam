@@ -1,0 +1,10 @@
+{
+  "name": "saw",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb850-695c-4b47-a12f-274073ec27a0",
+  "fileKey": "saw.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\saw.glb"
+}

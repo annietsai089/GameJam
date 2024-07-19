@@ -1,0 +1,10 @@
+{
+  "name": "grass",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb88e-ed26-4cec-9c53-440ec33d774d",
+  "fileKey": "grass.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\grass.glb"
+}

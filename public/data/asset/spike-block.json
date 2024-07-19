@@ -1,0 +1,10 @@
+{
+  "name": "spike-block",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb853-2c5a-4898-b880-02fa9a299d4a",
+  "fileKey": "spike-block.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\spike-block.glb"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "platform-ramp",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb84b-dc66-4a7c-bfef-e0d9aa504c34",
+  "fileKey": "platform-ramp.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\platform-ramp.glb"
+}

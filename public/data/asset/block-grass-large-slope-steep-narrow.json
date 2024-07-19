@@ -1,0 +1,10 @@
+{
+  "name": "block-grass-large-slope-steep-narrow",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb8e1-fe3a-4a36-8638-75f79189714f",
+  "fileKey": "block-grass-large-slope-steep-narrow.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\block-grass-large-slope-steep-narrow.glb"
+}

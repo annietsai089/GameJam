@@ -1,0 +1,10 @@
+{
+  "name": "block-grass-hexagon",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb8dc-ea44-468f-8cba-3cb7e7e44576",
+  "fileKey": "block-grass-hexagon.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\block-grass-hexagon.glb"
+}

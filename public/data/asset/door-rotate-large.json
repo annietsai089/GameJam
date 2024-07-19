@@ -1,0 +1,10 @@
+{
+  "name": "door-rotate-large",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb87d-3dec-40e8-92d9-31c48cff50af",
+  "fileKey": "door-rotate-large.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\door-rotate-large.glb"
+}

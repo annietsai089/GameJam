@@ -1,0 +1,10 @@
+{
+  "name": "stones",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb855-d11c-44a4-b4d7-e2f6d3140a0e",
+  "fileKey": "stones.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\stones.glb"
+}

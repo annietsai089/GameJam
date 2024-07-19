@@ -1,0 +1,10 @@
+{
+  "name": "block-moving",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb8a5-ae26-4d00-bf75-7a8e535cef80",
+  "fileKey": "block-moving.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\block-moving.glb"
+}

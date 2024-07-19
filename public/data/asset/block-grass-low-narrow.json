@@ -1,0 +1,10 @@
+{
+  "name": "block-grass-low-narrow",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb8e8-b2ac-4470-844e-98a82c034370",
+  "fileKey": "block-grass-low-narrow.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\block-grass-low-narrow.glb"
+}

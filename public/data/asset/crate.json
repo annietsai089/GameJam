@@ -1,0 +1,10 @@
+{
+  "name": "crate",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb872-87da-4d4b-a601-da1e1965594d",
+  "fileKey": "crate.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\crate.glb"
+}

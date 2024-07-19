@@ -1,0 +1,10 @@
+{
+  "name": "bomb",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb867-e384-4da8-9609-1a1c38afc76c",
+  "fileKey": "bomb.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\bomb.glb"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "fence-low-corner",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb884-c6b6-4a10-a640-331ba5363714",
+  "fileKey": "fence-low-corner.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\fence-low-corner.glb"
+}

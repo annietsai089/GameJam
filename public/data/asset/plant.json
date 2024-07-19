@@ -1,0 +1,10 @@
+{
+  "name": "plant",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb845-1246-405a-9eb5-ab403366428f",
+  "fileKey": "plant.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\plant.glb"
+}

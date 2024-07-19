@@ -1,0 +1,10 @@
+{
+  "name": "block-snow-narrow",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb8c5-873c-4e40-8101-8514a2fcbbd4",
+  "fileKey": "block-snow-narrow.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\block-snow-narrow.glb"
+}

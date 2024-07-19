@@ -1,0 +1,10 @@
+{
+  "name": "platform-overhang",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb84a-400e-4370-bb62-514442a5b9cf",
+  "fileKey": "platform-overhang.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\platform-overhang.glb"
+}

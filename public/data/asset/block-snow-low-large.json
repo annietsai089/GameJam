@@ -1,0 +1,10 @@
+{
+  "name": "block-snow-low-large",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb8c1-b062-4432-bf75-a288c14c5d9a",
+  "fileKey": "block-snow-low-large.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\block-snow-low-large.glb"
+}

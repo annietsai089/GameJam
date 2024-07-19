@@ -1,0 +1,10 @@
+{
+  "name": "block-grass-corner-low",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb8d7-6aec-46cd-b79d-a508b51f83d1",
+  "fileKey": "block-grass-corner-low.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\block-grass-corner-low.glb"
+}

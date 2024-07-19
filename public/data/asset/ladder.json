@@ -1,0 +1,10 @@
+{
+  "name": "ladder",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb897-eb74-4b12-b47d-364cdc88afd9",
+  "fileKey": "ladder.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\ladder.glb"
+}

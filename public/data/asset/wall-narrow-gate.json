@@ -1,0 +1,10 @@
+{
+  "name": "wall-narrow-gate",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb7ee-6752-4b25-a6c6-bb37a49efb5c",
+  "fileKey": "wall-narrow-gate.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_castle-kit\\Models\\GLB format\\wall-narrow-gate.glb"
+}

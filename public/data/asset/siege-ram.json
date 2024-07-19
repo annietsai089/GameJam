@@ -1,0 +1,10 @@
+{
+  "name": "siege-ram",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb7c0-d760-413b-9b6b-bd88223e79b7",
+  "fileKey": "siege-ram.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_castle-kit\\Models\\GLB format\\siege-ram.glb"
+}

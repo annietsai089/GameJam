@@ -1,0 +1,10 @@
+{
+  "name": "lock",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb841-5386-4318-8d57-e19cc0bd80dd",
+  "fileKey": "lock.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\lock.glb"
+}

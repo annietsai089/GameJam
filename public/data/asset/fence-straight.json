@@ -1,0 +1,10 @@
+{
+  "name": "fence-straight",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb889-1220-41b5-a76d-2fab15a58d0a",
+  "fileKey": "fence-straight.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\fence-straight.glb"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "wall-pillar",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb7f3-f7bc-48b2-99c6-24005d3d2380",
+  "fileKey": "wall-pillar.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_castle-kit\\Models\\GLB format\\wall-pillar.glb"
+}

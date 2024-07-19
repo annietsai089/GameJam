@@ -1,0 +1,10 @@
+{
+  "name": "colormap 1",
+  "path": "",
+  "type": "texture",
+  "collisionDetection": true,
+  "id": "9c8fb8f3-2c5a-44ff-ad39-0ec1a0a4fb06",
+  "fileKey": "colormap_1.png",
+  "fileFormat": "png",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\Textures\\colormap.png"
+}

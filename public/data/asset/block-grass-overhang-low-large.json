@@ -1,0 +1,10 @@
+{
+  "name": "block-grass-overhang-low-large",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb83f-789a-4c6c-9c38-af2bb0e9ce64",
+  "fileKey": "block-grass-overhang-low-large.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\block-grass-overhang-low-large.glb"
+}

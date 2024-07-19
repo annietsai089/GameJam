@@ -1,0 +1,10 @@
+{
+  "name": "ground",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb7bc-7f8a-4de8-a0c1-d9288980656c",
+  "fileKey": "ground.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_castle-kit\\Models\\GLB format\\ground.glb"
+}

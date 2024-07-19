@@ -1,0 +1,10 @@
+{
+  "name": "platform-fortified",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb848-8f20-4c33-a660-09df2fc6f91b",
+  "fileKey": "platform-fortified.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\platform-fortified.glb"
+}

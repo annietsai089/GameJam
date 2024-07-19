@@ -1,0 +1,10 @@
+{
+  "name": "platform",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb846-e30a-4de2-8429-4c98ded015d9",
+  "fileKey": "platform.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\platform.glb"
+}

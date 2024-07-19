@@ -1,0 +1,10 @@
+{
+  "name": "block-grass-overhang-hexagon",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb8ec-c3ec-4049-880a-8de1ae37bbe3",
+  "fileKey": "block-grass-overhang-hexagon.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\block-grass-overhang-hexagon.glb"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "trap-spikes-large",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb858-be04-4ac8-acbf-0bc7ad5af358",
+  "fileKey": "trap-spikes-large.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\trap-spikes-large.glb"
+}

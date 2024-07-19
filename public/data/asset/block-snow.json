@@ -1,0 +1,10 @@
+{
+  "name": "block-snow",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb863-0df0-4599-912c-f2ff51ce965b",
+  "fileKey": "block-snow.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\block-snow.glb"
+}

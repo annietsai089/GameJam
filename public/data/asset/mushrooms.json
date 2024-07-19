@@ -1,0 +1,10 @@
+{
+  "name": "mushrooms",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb843-32b4-4488-8e1f-d3c90d71954d",
+  "fileKey": "mushrooms.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\mushrooms.glb"
+}

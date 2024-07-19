@@ -1,0 +1,10 @@
+{
+  "name": "siege-ballista",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb7be-d62c-4a3d-beaf-14f7d422d95d",
+  "fileKey": "siege-ballista.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_castle-kit\\Models\\GLB format\\siege-ballista.glb"
+}

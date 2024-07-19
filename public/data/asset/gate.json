@@ -1,0 +1,10 @@
+{
+  "name": "gate",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb7bb-c0fe-413b-86bc-18619d437adb",
+  "fileKey": "gate.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_castle-kit\\Models\\GLB format\\gate.glb"
+}

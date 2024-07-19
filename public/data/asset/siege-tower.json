@@ -1,0 +1,10 @@
+{
+  "name": "siege-tower",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb7c1-d9ee-46e9-94bd-5d1f1fa73539",
+  "fileKey": "siege-tower.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_castle-kit\\Models\\GLB format\\siege-tower.glb"
+}

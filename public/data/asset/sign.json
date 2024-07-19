@@ -1,0 +1,10 @@
+{
+  "name": "sign",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb851-cb6c-4dbc-aa0b-c5ffe8bff497",
+  "fileKey": "sign.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\sign.glb"
+}

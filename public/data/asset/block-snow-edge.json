@@ -1,0 +1,10 @@
+{
+  "name": "block-snow-edge",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb8b4-3cac-4874-847f-6009b569e4b8",
+  "fileKey": "block-snow-edge.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\block-snow-edge.glb"
+}

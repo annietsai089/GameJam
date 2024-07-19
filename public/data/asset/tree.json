@@ -1,0 +1,10 @@
+{
+  "name": "tree",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb85a-2816-4e66-aadd-a766a1bd1d88",
+  "fileKey": "tree.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\tree.glb"
+}

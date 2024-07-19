@@ -1,0 +1,10 @@
+{
+  "name": "door",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb7ba-4526-48cb-9811-9602603c2fa9",
+  "fileKey": "door.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_castle-kit\\Models\\GLB format\\door.glb"
+}

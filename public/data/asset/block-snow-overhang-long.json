@@ -1,0 +1,10 @@
+{
+  "name": "block-snow-overhang-long",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb8ce-7392-45ba-af68-4071df4c0dcd",
+  "fileKey": "block-snow-overhang-long.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\block-snow-overhang-long.glb"
+}

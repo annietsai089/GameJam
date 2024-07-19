@@ -1,0 +1,10 @@
+{
+  "name": "fence-corner",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb880-3c7c-4dcc-9af8-9b59a9e8e3dc",
+  "fileKey": "fence-corner.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\fence-corner.glb"
+}

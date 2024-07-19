@@ -1,0 +1,10 @@
+{
+  "name": "ladder-broken",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb899-84f2-4b3a-bd6f-6875a97a7066",
+  "fileKey": "ladder-broken.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\ladder-broken.glb"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "block-grass-low",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb8e4-ab58-48d1-aa46-792f9cece6b6",
+  "fileKey": "block-grass-low.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\block-grass-low.glb"
+}

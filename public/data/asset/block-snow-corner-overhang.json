@@ -1,0 +1,10 @@
+{
+  "name": "block-snow-corner-overhang",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb8ac-f898-4330-8638-2b002b1caf36",
+  "fileKey": "block-snow-corner-overhang.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\block-snow-corner-overhang.glb"
+}

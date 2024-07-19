@@ -1,0 +1,10 @@
+{
+  "name": "metal-gate",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb7bd-14fe-4235-8d66-57836b79a9b0",
+  "fileKey": "metal-gate.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_castle-kit\\Models\\GLB format\\metal-gate.glb"
+}

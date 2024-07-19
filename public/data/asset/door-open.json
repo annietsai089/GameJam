@@ -1,0 +1,10 @@
+{
+  "name": "door-open",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb87a-2684-430c-be2f-9ec0629e20fa",
+  "fileKey": "door-open.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\door-open.glb"
+}

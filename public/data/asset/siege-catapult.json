@@ -1,0 +1,10 @@
+{
+  "name": "siege-catapult",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb7bf-d66c-46cc-b7fb-83244e38e73a",
+  "fileKey": "siege-catapult.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_castle-kit\\Models\\GLB format\\siege-catapult.glb"
+}

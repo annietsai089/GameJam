@@ -1,0 +1,1102 @@
+{
+  "9c8fb8d2-e5da-477b-b6d1-f9ae7cd1f2c6": {
+    "id": "9c8fb8d2-e5da-477b-b6d1-f9ae7cd1f2c6",
+    "name": "arrow",
+    "path": ""
+  },
+  "9c8fb8d3-f434-4706-89a3-23e2d5356e49": {
+    "id": "9c8fb8d3-f434-4706-89a3-23e2d5356e49",
+    "name": "arrows",
+    "path": ""
+  },
+  "9c8fb8d5-0838-461c-807b-2b340c297b19": {
+    "id": "9c8fb8d5-0838-461c-807b-2b340c297b19",
+    "name": "barrel",
+    "path": ""
+  },
+  "9c8fb8d7-6aec-46cd-b79d-a508b51f83d1": {
+    "id": "9c8fb8d7-6aec-46cd-b79d-a508b51f83d1",
+    "name": "block-grass-corner-low",
+    "path": ""
+  },
+  "9c8fb8d8-d990-4438-99f5-b9ee006110c9": {
+    "id": "9c8fb8d8-d990-4438-99f5-b9ee006110c9",
+    "name": "block-grass-corner-overhang-low",
+    "path": ""
+  },
+  "9c8fb8d7-c898-4544-a04a-ccab709d3bbf": {
+    "id": "9c8fb8d7-c898-4544-a04a-ccab709d3bbf",
+    "name": "block-grass-corner-overhang",
+    "path": ""
+  },
+  "9c8fb8d6-3438-4880-959d-374a471246a1": {
+    "id": "9c8fb8d6-3438-4880-959d-374a471246a1",
+    "name": "block-grass-corner",
+    "path": ""
+  },
+  "9c8fb8da-584c-436d-8f44-365c15aa5e4c": {
+    "id": "9c8fb8da-584c-436d-8f44-365c15aa5e4c",
+    "name": "block-grass-curve-half",
+    "path": ""
+  },
+  "9c8fb8db-652a-4e60-97da-4616e568477a": {
+    "id": "9c8fb8db-652a-4e60-97da-4616e568477a",
+    "name": "block-grass-curve-low",
+    "path": ""
+  },
+  "9c8fb8d9-3d40-4822-bb19-b25ac800e6b5": {
+    "id": "9c8fb8d9-3d40-4822-bb19-b25ac800e6b5",
+    "name": "block-grass-curve",
+    "path": ""
+  },
+  "9c8fb8db-c506-4423-b1ef-1b34768cf3df": {
+    "id": "9c8fb8db-c506-4423-b1ef-1b34768cf3df",
+    "name": "block-grass-edge",
+    "path": ""
+  },
+  "9c8fb8dc-ea44-468f-8cba-3cb7e7e44576": {
+    "id": "9c8fb8dc-ea44-468f-8cba-3cb7e7e44576",
+    "name": "block-grass-hexagon",
+    "path": ""
+  },
+  "9c8fb8df-a31a-427d-a7f5-e1a07925c568": {
+    "id": "9c8fb8df-a31a-427d-a7f5-e1a07925c568",
+    "name": "block-grass-large-slope-narrow",
+    "path": ""
+  },
+  "9c8fb8e1-fe3a-4a36-8638-75f79189714f": {
+    "id": "9c8fb8e1-fe3a-4a36-8638-75f79189714f",
+    "name": "block-grass-large-slope-steep-narrow",
+    "path": ""
+  },
+  "9c8fb8e0-d0a0-4278-bfa5-226b6433cd9c": {
+    "id": "9c8fb8e0-d0a0-4278-bfa5-226b6433cd9c",
+    "name": "block-grass-large-slope-steep",
+    "path": ""
+  },
+  "9c8fb8de-88d6-40eb-8139-ca26dd6f669a": {
+    "id": "9c8fb8de-88d6-40eb-8139-ca26dd6f669a",
+    "name": "block-grass-large-slope",
+    "path": ""
+  },
+  "9c8fb8e2-5ccc-46ac-acbe-979e3646c549": {
+    "id": "9c8fb8e2-5ccc-46ac-acbe-979e3646c549",
+    "name": "block-grass-large-tall",
+    "path": ""
+  },
+  "9c8fb8de-24b8-49de-865d-af9fdab988ba": {
+    "id": "9c8fb8de-24b8-49de-865d-af9fdab988ba",
+    "name": "block-grass-large",
+    "path": ""
+  },
+  "9c8fb8e3-8bb0-4b30-bb22-8fb03bd16999": {
+    "id": "9c8fb8e3-8bb0-4b30-bb22-8fb03bd16999",
+    "name": "block-grass-long",
+    "path": ""
+  },
+  "9c8fb8e5-0c42-45bd-93be-ed6092f2df12": {
+    "id": "9c8fb8e5-0c42-45bd-93be-ed6092f2df12",
+    "name": "block-grass-low-hexagon",
+    "path": ""
+  },
+  "9c8fb8e6-2dfc-4047-bde8-7c01d329c96e": {
+    "id": "9c8fb8e6-2dfc-4047-bde8-7c01d329c96e",
+    "name": "block-grass-low-large",
+    "path": ""
+  },
+  "9c8fb8e7-9070-45d6-9c17-44255a91ce19": {
+    "id": "9c8fb8e7-9070-45d6-9c17-44255a91ce19",
+    "name": "block-grass-low-long",
+    "path": ""
+  },
+  "9c8fb8e8-b2ac-4470-844e-98a82c034370": {
+    "id": "9c8fb8e8-b2ac-4470-844e-98a82c034370",
+    "name": "block-grass-low-narrow",
+    "path": ""
+  },
+  "9c8fb8e4-ab58-48d1-aa46-792f9cece6b6": {
+    "id": "9c8fb8e4-ab58-48d1-aa46-792f9cece6b6",
+    "name": "block-grass-low",
+    "path": ""
+  },
+  "9c8fb8e9-0ebe-4a9a-a8c6-349b686dd1e5": {
+    "id": "9c8fb8e9-0ebe-4a9a-a8c6-349b686dd1e5",
+    "name": "block-grass-narrow",
+    "path": ""
+  },
+  "9c8fb8ea-85b4-4476-8f00-fdaf5838c22f": {
+    "id": "9c8fb8ea-85b4-4476-8f00-fdaf5838c22f",
+    "name": "block-grass-overhang-corner",
+    "path": ""
+  },
+  "9c8fb8eb-a480-4dd2-b93c-d5550388873d": {
+    "id": "9c8fb8eb-a480-4dd2-b93c-d5550388873d",
+    "name": "block-grass-overhang-edge",
+    "path": ""
+  },
+  "9c8fb8ec-c3ec-4049-880a-8de1ae37bbe3": {
+    "id": "9c8fb8ec-c3ec-4049-880a-8de1ae37bbe3",
+    "name": "block-grass-overhang-hexagon",
+    "path": ""
+  },
+  "9c8fb8ef-8532-450e-a3bb-fbf7358696d7": {
+    "id": "9c8fb8ef-8532-450e-a3bb-fbf7358696d7",
+    "name": "block-grass-overhang-large-slope-narrow",
+    "path": ""
+  },
+  "9c8fb8f2-8926-46fd-84ed-00a29b7ab519": {
+    "id": "9c8fb8f2-8926-46fd-84ed-00a29b7ab519",
+    "name": "block-grass-overhang-large-slope-steep-narrow",
+    "path": ""
+  },
+  "9c8fb8f0-a994-43dc-827a-6309242e197c": {
+    "id": "9c8fb8f0-a994-43dc-827a-6309242e197c",
+    "name": "block-grass-overhang-large-slope-steep",
+    "path": ""
+  },
+  "9c8fb8ef-216e-4000-8b9e-65d462c86e01": {
+    "id": "9c8fb8ef-216e-4000-8b9e-65d462c86e01",
+    "name": "block-grass-overhang-large-slope",
+    "path": ""
+  },
+  "9c8fb83b-099a-49ee-ade0-df4a5e7baa0c": {
+    "id": "9c8fb83b-099a-49ee-ade0-df4a5e7baa0c",
+    "name": "block-grass-overhang-large-tall",
+    "path": ""
+  },
+  "9c8fb8ed-259e-4efe-9f20-06d43ffc4aeb": {
+    "id": "9c8fb8ed-259e-4efe-9f20-06d43ffc4aeb",
+    "name": "block-grass-overhang-large",
+    "path": ""
+  },
+  "9c8fb83b-dc80-4348-b061-8462b16d4381": {
+    "id": "9c8fb83b-dc80-4348-b061-8462b16d4381",
+    "name": "block-grass-overhang-long",
+    "path": ""
+  },
+  "9c8fb83d-a722-4374-8430-c33f8e296b8b": {
+    "id": "9c8fb83d-a722-4374-8430-c33f8e296b8b",
+    "name": "block-grass-overhang-low-hexagon",
+    "path": ""
+  },
+  "9c8fb83f-789a-4c6c-9c38-af2bb0e9ce64": {
+    "id": "9c8fb83f-789a-4c6c-9c38-af2bb0e9ce64",
+    "name": "block-grass-overhang-low-large",
+    "path": ""
+  },
+  "9c8fb8a1-624e-441f-9ed1-60bbc608adde": {
+    "id": "9c8fb8a1-624e-441f-9ed1-60bbc608adde",
+    "name": "block-grass-overhang-low-long",
+    "path": ""
+  },
+  "9c8fb8a2-ddfe-410f-b27c-139215d0c573": {
+    "id": "9c8fb8a2-ddfe-410f-b27c-139215d0c573",
+    "name": "block-grass-overhang-low-narrow",
+    "path": ""
+  },
+  "9c8fb89f-f24c-4c21-a7b3-13ce46c71c67": {
+    "id": "9c8fb89f-f24c-4c21-a7b3-13ce46c71c67",
+    "name": "block-grass-overhang-low",
+    "path": ""
+  },
+  "9c8fb8a4-32b2-456c-8517-7639fb031deb": {
+    "id": "9c8fb8a4-32b2-456c-8517-7639fb031deb",
+    "name": "block-grass-overhang-narrow",
+    "path": ""
+  },
+  "9c8fb89d-f1e0-4ede-bb74-57f6215ef641": {
+    "id": "9c8fb89d-f1e0-4ede-bb74-57f6215ef641",
+    "name": "block-grass",
+    "path": ""
+  },
+  "9c8fb8a7-285a-47ab-b837-933426f6a2dc": {
+    "id": "9c8fb8a7-285a-47ab-b837-933426f6a2dc",
+    "name": "block-moving-blue",
+    "path": ""
+  },
+  "9c8fb8a8-9b68-4527-a708-7ce8e8fd76f1": {
+    "id": "9c8fb8a8-9b68-4527-a708-7ce8e8fd76f1",
+    "name": "block-moving-large",
+    "path": ""
+  },
+  "9c8fb8a5-ae26-4d00-bf75-7a8e535cef80": {
+    "id": "9c8fb8a5-ae26-4d00-bf75-7a8e535cef80",
+    "name": "block-moving",
+    "path": ""
+  },
+  "9c8fb8ab-7d06-4766-9d25-1b51b9b05a1a": {
+    "id": "9c8fb8ab-7d06-4766-9d25-1b51b9b05a1a",
+    "name": "block-snow-corner-low",
+    "path": ""
+  },
+  "9c8fb8ae-715a-4748-9e9c-ca205c2b0d02": {
+    "id": "9c8fb8ae-715a-4748-9e9c-ca205c2b0d02",
+    "name": "block-snow-corner-overhang-low",
+    "path": ""
+  },
+  "9c8fb8ac-f898-4330-8638-2b002b1caf36": {
+    "id": "9c8fb8ac-f898-4330-8638-2b002b1caf36",
+    "name": "block-snow-corner-overhang",
+    "path": ""
+  },
+  "9c8fb8aa-052a-449e-aaba-90ca2f9dfc25": {
+    "id": "9c8fb8aa-052a-449e-aaba-90ca2f9dfc25",
+    "name": "block-snow-corner",
+    "path": ""
+  },
+  "9c8fb8b1-41aa-4c07-a925-2f156294838c": {
+    "id": "9c8fb8b1-41aa-4c07-a925-2f156294838c",
+    "name": "block-snow-curve-half",
+    "path": ""
+  },
+  "9c8fb8b2-c778-4bb5-87bc-78fa3cdda0e3": {
+    "id": "9c8fb8b2-c778-4bb5-87bc-78fa3cdda0e3",
+    "name": "block-snow-curve-low",
+    "path": ""
+  },
+  "9c8fb8af-d19e-411d-b25f-5a6d874be778": {
+    "id": "9c8fb8af-d19e-411d-b25f-5a6d874be778",
+    "name": "block-snow-curve",
+    "path": ""
+  },
+  "9c8fb8b4-3cac-4874-847f-6009b569e4b8": {
+    "id": "9c8fb8b4-3cac-4874-847f-6009b569e4b8",
+    "name": "block-snow-edge",
+    "path": ""
+  },
+  "9c8fb8b5-aefc-4e96-bfac-09b43ea1ea0e": {
+    "id": "9c8fb8b5-aefc-4e96-bfac-09b43ea1ea0e",
+    "name": "block-snow-hexagon",
+    "path": ""
+  },
+  "9c8fb8ba-4ad4-41c1-bbd8-7a2b73bc5ff1": {
+    "id": "9c8fb8ba-4ad4-41c1-bbd8-7a2b73bc5ff1",
+    "name": "block-snow-large-slope-narrow",
+    "path": ""
+  },
+  "9c8fb8bd-2862-4f74-9ddc-7d5c3a8f1354": {
+    "id": "9c8fb8bd-2862-4f74-9ddc-7d5c3a8f1354",
+    "name": "block-snow-large-slope-steep-narrow",
+    "path": ""
+  },
+  "9c8fb8bc-0374-48b9-8813-e456469c2583": {
+    "id": "9c8fb8bc-0374-48b9-8813-e456469c2583",
+    "name": "block-snow-large-slope-steep",
+    "path": ""
+  },
+  "9c8fb8b8-a508-4c48-a5c4-5ffed1b614ca": {
+    "id": "9c8fb8b8-a508-4c48-a5c4-5ffed1b614ca",
+    "name": "block-snow-large-slope",
+    "path": ""
+  },
+  "9c8fb8bd-9144-4f3c-b21c-ed0caccc4213": {
+    "id": "9c8fb8bd-9144-4f3c-b21c-ed0caccc4213",
+    "name": "block-snow-large-tall",
+    "path": ""
+  },
+  "9c8fb8b7-19cc-4876-8fbc-a7f3c2f33fd0": {
+    "id": "9c8fb8b7-19cc-4876-8fbc-a7f3c2f33fd0",
+    "name": "block-snow-large",
+    "path": ""
+  },
+  "9c8fb8be-1c18-4a0d-ba09-10dd5cd09a62": {
+    "id": "9c8fb8be-1c18-4a0d-ba09-10dd5cd09a62",
+    "name": "block-snow-long",
+    "path": ""
+  },
+  "9c8fb8c0-7a80-4fb0-b009-76670f11d29a": {
+    "id": "9c8fb8c0-7a80-4fb0-b009-76670f11d29a",
+    "name": "block-snow-low-hexagon",
+    "path": ""
+  },
+  "9c8fb8c1-b062-4432-bf75-a288c14c5d9a": {
+    "id": "9c8fb8c1-b062-4432-bf75-a288c14c5d9a",
+    "name": "block-snow-low-large",
+    "path": ""
+  },
+  "9c8fb8c2-06a2-4fef-8174-9bdc248d8177": {
+    "id": "9c8fb8c2-06a2-4fef-8174-9bdc248d8177",
+    "name": "block-snow-low-long",
+    "path": ""
+  },
+  "9c8fb8c3-32ac-47a5-b889-5843e80042f6": {
+    "id": "9c8fb8c3-32ac-47a5-b889-5843e80042f6",
+    "name": "block-snow-low-narrow",
+    "path": ""
+  },
+  "9c8fb8bf-2db0-4256-9766-fa72af92a2a3": {
+    "id": "9c8fb8bf-2db0-4256-9766-fa72af92a2a3",
+    "name": "block-snow-low",
+    "path": ""
+  },
+  "9c8fb8c5-873c-4e40-8101-8514a2fcbbd4": {
+    "id": "9c8fb8c5-873c-4e40-8101-8514a2fcbbd4",
+    "name": "block-snow-narrow",
+    "path": ""
+  },
+  "9c8fb8c5-e6be-41d1-af6c-f036af582ec4": {
+    "id": "9c8fb8c5-e6be-41d1-af6c-f036af582ec4",
+    "name": "block-snow-overhang-corner",
+    "path": ""
+  },
+  "9c8fb8c7-0936-444c-9ff5-565b17530f98": {
+    "id": "9c8fb8c7-0936-444c-9ff5-565b17530f98",
+    "name": "block-snow-overhang-edge",
+    "path": ""
+  },
+  "9c8fb8c8-3090-4cca-b919-b586ebdefa0e": {
+    "id": "9c8fb8c8-3090-4cca-b919-b586ebdefa0e",
+    "name": "block-snow-overhang-hexagon",
+    "path": ""
+  },
+  "9c8fb8ca-c882-4278-a2b8-106870157ba6": {
+    "id": "9c8fb8ca-c882-4278-a2b8-106870157ba6",
+    "name": "block-snow-overhang-large-slope-narrow",
+    "path": ""
+  },
+  "9c8fb8cc-62c8-46ad-bf13-69d926134d07": {
+    "id": "9c8fb8cc-62c8-46ad-bf13-69d926134d07",
+    "name": "block-snow-overhang-large-slope-steep-narrow",
+    "path": ""
+  },
+  "9c8fb8cc-0454-4ab7-a46a-3a7d98bd89a6": {
+    "id": "9c8fb8cc-0454-4ab7-a46a-3a7d98bd89a6",
+    "name": "block-snow-overhang-large-slope-steep",
+    "path": ""
+  },
+  "9c8fb8c9-a0a6-4145-930b-1be324b9cda7": {
+    "id": "9c8fb8c9-a0a6-4145-930b-1be324b9cda7",
+    "name": "block-snow-overhang-large-slope",
+    "path": ""
+  },
+  "9c8fb8cd-791a-4324-8212-0ad1ad23ee09": {
+    "id": "9c8fb8cd-791a-4324-8212-0ad1ad23ee09",
+    "name": "block-snow-overhang-large-tall",
+    "path": ""
+  },
+  "9c8fb8c8-88ec-44d6-adce-3697e5b92f33": {
+    "id": "9c8fb8c8-88ec-44d6-adce-3697e5b92f33",
+    "name": "block-snow-overhang-large",
+    "path": ""
+  },
+  "9c8fb8ce-7392-45ba-af68-4071df4c0dcd": {
+    "id": "9c8fb8ce-7392-45ba-af68-4071df4c0dcd",
+    "name": "block-snow-overhang-long",
+    "path": ""
+  },
+  "9c8fb8ce-cef0-4c33-a041-73ff3b8e0456": {
+    "id": "9c8fb8ce-cef0-4c33-a041-73ff3b8e0456",
+    "name": "block-snow-overhang-low-hexagon",
+    "path": ""
+  },
+  "9c8fb8cf-f26c-42df-b79a-634e8f408ed4": {
+    "id": "9c8fb8cf-f26c-42df-b79a-634e8f408ed4",
+    "name": "block-snow-overhang-low-large",
+    "path": ""
+  },
+  "9c8fb8d1-28c6-4396-9489-3e08c89e31e9": {
+    "id": "9c8fb8d1-28c6-4396-9489-3e08c89e31e9",
+    "name": "block-snow-overhang-low-long",
+    "path": ""
+  },
+  "9c8fb8d2-5192-4d9f-bade-f9986dc36ea9": {
+    "id": "9c8fb8d2-5192-4d9f-bade-f9986dc36ea9",
+    "name": "block-snow-overhang-low-narrow",
+    "path": ""
+  },
+  "9c8fb864-fafc-4d29-9f95-264e0ca0f020": {
+    "id": "9c8fb864-fafc-4d29-9f95-264e0ca0f020",
+    "name": "block-snow-overhang-low",
+    "path": ""
+  },
+  "9c8fb866-67b6-485c-bd5d-c836a7620191": {
+    "id": "9c8fb866-67b6-485c-bd5d-c836a7620191",
+    "name": "block-snow-overhang-narrow",
+    "path": ""
+  },
+  "9c8fb863-0df0-4599-912c-f2ff51ce965b": {
+    "id": "9c8fb863-0df0-4599-912c-f2ff51ce965b",
+    "name": "block-snow",
+    "path": ""
+  },
+  "9c8fb867-e384-4da8-9609-1a1c38afc76c": {
+    "id": "9c8fb867-e384-4da8-9609-1a1c38afc76c",
+    "name": "bomb",
+    "path": ""
+  },
+  "9c8fb7b9-9b30-46f3-8d94-f457defc9d68": {
+    "id": "9c8fb7b9-9b30-46f3-8d94-f457defc9d68",
+    "name": "bridge-draw",
+    "path": ""
+  },
+  "9c8fb7b9-c088-4de5-b1b4-2cd0a316a1b6": {
+    "id": "9c8fb7b9-c088-4de5-b1b4-2cd0a316a1b6",
+    "name": "bridge-straight-pillar",
+    "path": ""
+  },
+  "9c8fb7ba-2226-44c1-9eae-db115402f684": {
+    "id": "9c8fb7ba-2226-44c1-9eae-db115402f684",
+    "name": "bridge-straight",
+    "path": ""
+  },
+  "9c8fb869-7460-4f42-b4e0-0bcaa5e7451b": {
+    "id": "9c8fb869-7460-4f42-b4e0-0bcaa5e7451b",
+    "name": "button-round",
+    "path": ""
+  },
+  "9c8fb86a-f4ac-4b20-92c5-29370a020514": {
+    "id": "9c8fb86a-f4ac-4b20-92c5-29370a020514",
+    "name": "button-square",
+    "path": ""
+  },
+  "9c8fb86c-7dae-49a3-9e82-562db85ac5c8": {
+    "id": "9c8fb86c-7dae-49a3-9e82-562db85ac5c8",
+    "name": "chest",
+    "path": ""
+  },
+  "9c8fb86d-fc92-4dd4-9cc8-c08cc85f6d6f": {
+    "id": "9c8fb86d-fc92-4dd4-9cc8-c08cc85f6d6f",
+    "name": "coin-bronze",
+    "path": ""
+  },
+  "9c8fb86f-8a26-4a27-a5fe-9297d36cbe24": {
+    "id": "9c8fb86f-8a26-4a27-a5fe-9297d36cbe24",
+    "name": "coin-gold",
+    "path": ""
+  },
+  "9c8fb871-0392-477d-9a1f-e220e28695d3": {
+    "id": "9c8fb871-0392-477d-9a1f-e220e28695d3",
+    "name": "coin-silver",
+    "path": ""
+  },
+  "9c8fb7f8-90ce-4a67-83c9-0de8fb522a69": {
+    "id": "9c8fb7f8-90ce-4a67-83c9-0de8fb522a69",
+    "name": "colormap",
+    "path": ""
+  },
+  "9c8fb8f3-2c5a-44ff-ad39-0ec1a0a4fb06": {
+    "id": "9c8fb8f3-2c5a-44ff-ad39-0ec1a0a4fb06",
+    "name": "colormap 1",
+    "path": ""
+  },
+  "9c8fb875-9bdc-4da2-8021-622f5c4c97ca": {
+    "id": "9c8fb875-9bdc-4da2-8021-622f5c4c97ca",
+    "name": "crate-item-strong",
+    "path": ""
+  },
+  "9c8fb874-2202-43bd-8c64-9bbd52cbf2a0": {
+    "id": "9c8fb874-2202-43bd-8c64-9bbd52cbf2a0",
+    "name": "crate-item",
+    "path": ""
+  },
+  "9c8fb877-21fa-4f05-bc83-59d1ea48f6dd": {
+    "id": "9c8fb877-21fa-4f05-bc83-59d1ea48f6dd",
+    "name": "crate-strong",
+    "path": ""
+  },
+  "9c8fb872-87da-4d4b-a601-da1e1965594d": {
+    "id": "9c8fb872-87da-4d4b-a601-da1e1965594d",
+    "name": "crate",
+    "path": ""
+  },
+  "9c8fb878-9c10-4740-9074-e9692451561c": {
+    "id": "9c8fb878-9c10-4740-9074-e9692451561c",
+    "name": "door-large-open",
+    "path": ""
+  },
+  "9c8fb87a-2684-430c-be2f-9ec0629e20fa": {
+    "id": "9c8fb87a-2684-430c-be2f-9ec0629e20fa",
+    "name": "door-open",
+    "path": ""
+  },
+  "9c8fb87d-3dec-40e8-92d9-31c48cff50af": {
+    "id": "9c8fb87d-3dec-40e8-92d9-31c48cff50af",
+    "name": "door-rotate-large",
+    "path": ""
+  },
+  "9c8fb87b-ab8a-44fa-ad27-938c02b67b48": {
+    "id": "9c8fb87b-ab8a-44fa-ad27-938c02b67b48",
+    "name": "door-rotate",
+    "path": ""
+  },
+  "9c8fb7ba-4526-48cb-9811-9602603c2fa9": {
+    "id": "9c8fb7ba-4526-48cb-9811-9602603c2fa9",
+    "name": "door",
+    "path": ""
+  },
+  "9c8fb87e-bd8e-4972-bee2-0aac622d92e5": {
+    "id": "9c8fb87e-bd8e-4972-bee2-0aac622d92e5",
+    "name": "fence-broken",
+    "path": ""
+  },
+  "9c8fb881-d5e6-4f0a-a3f8-5e5fb5ca801e": {
+    "id": "9c8fb881-d5e6-4f0a-a3f8-5e5fb5ca801e",
+    "name": "fence-corner-curved",
+    "path": ""
+  },
+  "9c8fb880-3c7c-4dcc-9af8-9b59a9e8e3dc": {
+    "id": "9c8fb880-3c7c-4dcc-9af8-9b59a9e8e3dc",
+    "name": "fence-corner",
+    "path": ""
+  },
+  "9c8fb883-476e-407f-9e5a-a8e032a4d2ba": {
+    "id": "9c8fb883-476e-407f-9e5a-a8e032a4d2ba",
+    "name": "fence-low-broken",
+    "path": ""
+  },
+  "9c8fb886-3622-45b9-b12e-270cf443ff10": {
+    "id": "9c8fb886-3622-45b9-b12e-270cf443ff10",
+    "name": "fence-low-corner-curved",
+    "path": ""
+  },
+  "9c8fb884-c6b6-4a10-a640-331ba5363714": {
+    "id": "9c8fb884-c6b6-4a10-a640-331ba5363714",
+    "name": "fence-low-corner",
+    "path": ""
+  },
+  "9c8fb887-acf0-4229-a7ea-c1b1ef61227d": {
+    "id": "9c8fb887-acf0-4229-a7ea-c1b1ef61227d",
+    "name": "fence-low-straight",
+    "path": ""
+  },
+  "9c8fb889-1220-41b5-a76d-2fab15a58d0a": {
+    "id": "9c8fb889-1220-41b5-a76d-2fab15a58d0a",
+    "name": "fence-straight",
+    "path": ""
+  },
+  "9c8fb7ba-b84e-49ff-97fc-ca9e909f1db2": {
+    "id": "9c8fb7ba-b84e-49ff-97fc-ca9e909f1db2",
+    "name": "flag-banner-long",
+    "path": ""
+  },
+  "9c8fb7ba-d9c8-4152-bf1d-616cd4ff4364": {
+    "id": "9c8fb7ba-d9c8-4152-bf1d-616cd4ff4364",
+    "name": "flag-banner-short",
+    "path": ""
+  },
+  "9c8fb7ba-fda4-4bc4-8004-830b1f9c88fd": {
+    "id": "9c8fb7ba-fda4-4bc4-8004-830b1f9c88fd",
+    "name": "flag-pennant",
+    "path": ""
+  },
+  "9c8fb7bb-761c-4d6c-b19d-01e39b362e79": {
+    "id": "9c8fb7bb-761c-4d6c-b19d-01e39b362e79",
+    "name": "flag-wide",
+    "path": ""
+  },
+  "9c8fb7bb-99d0-4f73-a75d-68db848a0467": {
+    "id": "9c8fb7bb-99d0-4f73-a75d-68db848a0467",
+    "name": "flag",
+    "path": ""
+  },
+  "9c8fb88a-8ccc-4330-b934-3154e77bba8c": {
+    "id": "9c8fb88a-8ccc-4330-b934-3154e77bba8c",
+    "name": "flag 1",
+    "path": ""
+  },
+  "9c8fb88d-5d1c-4eab-a1de-30a363ba9135": {
+    "id": "9c8fb88d-5d1c-4eab-a1de-30a363ba9135",
+    "name": "flowers-tall",
+    "path": ""
+  },
+  "9c8fb88b-f1d4-45d1-b77c-4217acd0c7eb": {
+    "id": "9c8fb88b-f1d4-45d1-b77c-4217acd0c7eb",
+    "name": "flowers",
+    "path": ""
+  },
+  "9c8fb7bb-c0fe-413b-86bc-18619d437adb": {
+    "id": "9c8fb7bb-c0fe-413b-86bc-18619d437adb",
+    "name": "gate",
+    "path": ""
+  },
+  "9c8fb88e-ed26-4cec-9c53-440ec33d774d": {
+    "id": "9c8fb88e-ed26-4cec-9c53-440ec33d774d",
+    "name": "grass",
+    "path": ""
+  },
+  "9c8fb7bc-51b8-432b-b883-458d3b9b7fdb": {
+    "id": "9c8fb7bc-51b8-432b-b883-458d3b9b7fdb",
+    "name": "ground-hills",
+    "path": ""
+  },
+  "9c8fb7bc-7f8a-4de8-a0c1-d9288980656c": {
+    "id": "9c8fb7bc-7f8a-4de8-a0c1-d9288980656c",
+    "name": "ground",
+    "path": ""
+  },
+  "9c8fb890-6aa2-4f05-9a30-940a85c47da4": {
+    "id": "9c8fb890-6aa2-4f05-9a30-940a85c47da4",
+    "name": "heart",
+    "path": ""
+  },
+  "9c8fb893-9ace-4472-ad38-813ef23787c7": {
+    "id": "9c8fb893-9ace-4472-ad38-813ef23787c7",
+    "name": "hedge-corner",
+    "path": ""
+  },
+  "9c8fb892-2e1e-4036-9f64-93c53228d054": {
+    "id": "9c8fb892-2e1e-4036-9f64-93c53228d054",
+    "name": "hedge",
+    "path": ""
+  },
+  "9c8fb895-105c-4258-9e51-ef6210857357": {
+    "id": "9c8fb895-105c-4258-9e51-ef6210857357",
+    "name": "jewel",
+    "path": ""
+  },
+  "9c8fb896-85c2-4c45-b46b-0bf804aa9885": {
+    "id": "9c8fb896-85c2-4c45-b46b-0bf804aa9885",
+    "name": "key",
+    "path": ""
+  },
+  "9c8fb899-84f2-4b3a-bd6f-6875a97a7066": {
+    "id": "9c8fb899-84f2-4b3a-bd6f-6875a97a7066",
+    "name": "ladder-broken",
+    "path": ""
+  },
+  "9c8fb89b-0b88-4783-be4e-e7deb8b026fa": {
+    "id": "9c8fb89b-0b88-4783-be4e-e7deb8b026fa",
+    "name": "ladder-long",
+    "path": ""
+  },
+  "9c8fb897-eb74-4b12-b47d-364cdc88afd9": {
+    "id": "9c8fb897-eb74-4b12-b47d-364cdc88afd9",
+    "name": "ladder",
+    "path": ""
+  },
+  "9c8fb89c-9bb0-4892-8391-b51a88051775": {
+    "id": "9c8fb89c-9bb0-4892-8391-b51a88051775",
+    "name": "lever",
+    "path": ""
+  },
+  "9c8fb841-5386-4318-8d57-e19cc0bd80dd": {
+    "id": "9c8fb841-5386-4318-8d57-e19cc0bd80dd",
+    "name": "lock",
+    "path": ""
+  },
+  "9c8fb7bd-14fe-4235-8d66-57836b79a9b0": {
+    "id": "9c8fb7bd-14fe-4235-8d66-57836b79a9b0",
+    "name": "metal-gate",
+    "path": ""
+  },
+  "9c8fb843-32b4-4488-8e1f-d3c90d71954d": {
+    "id": "9c8fb843-32b4-4488-8e1f-d3c90d71954d",
+    "name": "mushrooms",
+    "path": ""
+  },
+  "9c8fb845-1246-405a-9eb5-ab403366428f": {
+    "id": "9c8fb845-1246-405a-9eb5-ab403366428f",
+    "name": "plant",
+    "path": ""
+  },
+  "9c8fb848-8f20-4c33-a660-09df2fc6f91b": {
+    "id": "9c8fb848-8f20-4c33-a660-09df2fc6f91b",
+    "name": "platform-fortified",
+    "path": ""
+  },
+  "9c8fb84a-400e-4370-bb62-514442a5b9cf": {
+    "id": "9c8fb84a-400e-4370-bb62-514442a5b9cf",
+    "name": "platform-overhang",
+    "path": ""
+  },
+  "9c8fb84b-dc66-4a7c-bfef-e0d9aa504c34": {
+    "id": "9c8fb84b-dc66-4a7c-bfef-e0d9aa504c34",
+    "name": "platform-ramp",
+    "path": ""
+  },
+  "9c8fb846-e30a-4de2-8429-4c98ded015d9": {
+    "id": "9c8fb846-e30a-4de2-8429-4c98ded015d9",
+    "name": "platform",
+    "path": ""
+  },
+  "9c8fb84d-790e-4685-843b-9f3fa028bb72": {
+    "id": "9c8fb84d-790e-4685-843b-9f3fa028bb72",
+    "name": "poles",
+    "path": ""
+  },
+  "9c8fb7bd-b5f8-436d-9585-a405f246f5c0": {
+    "id": "9c8fb7bd-b5f8-436d-9585-a405f246f5c0",
+    "name": "rocks-large",
+    "path": ""
+  },
+  "9c8fb7bd-ebe0-4037-bdf8-3519f29f0863": {
+    "id": "9c8fb7bd-ebe0-4037-bdf8-3519f29f0863",
+    "name": "rocks-small",
+    "path": ""
+  },
+  "9c8fb84e-e82a-4599-8253-b179b26c3645": {
+    "id": "9c8fb84e-e82a-4599-8253-b179b26c3645",
+    "name": "rocks",
+    "path": ""
+  },
+  "9c8fb850-695c-4b47-a12f-274073ec27a0": {
+    "id": "9c8fb850-695c-4b47-a12f-274073ec27a0",
+    "name": "saw",
+    "path": ""
+  },
+  "9c8fb7be-a0d0-434c-b48e-99289376e60e": {
+    "id": "9c8fb7be-a0d0-434c-b48e-99289376e60e",
+    "name": "siege-ballista-demolished",
+    "path": ""
+  },
+  "9c8fb7be-d62c-4a3d-beaf-14f7d422d95d": {
+    "id": "9c8fb7be-d62c-4a3d-beaf-14f7d422d95d",
+    "name": "siege-ballista",
+    "path": ""
+  },
+  "9c8fb7bf-9ada-4757-94b9-71e7a974f3dd": {
+    "id": "9c8fb7bf-9ada-4757-94b9-71e7a974f3dd",
+    "name": "siege-catapult-demolished",
+    "path": ""
+  },
+  "9c8fb7bf-d66c-46cc-b7fb-83244e38e73a": {
+    "id": "9c8fb7bf-d66c-46cc-b7fb-83244e38e73a",
+    "name": "siege-catapult",
+    "path": ""
+  },
+  "9c8fb7c0-99b2-4a19-9111-bcb0c58ee323": {
+    "id": "9c8fb7c0-99b2-4a19-9111-bcb0c58ee323",
+    "name": "siege-ram-demolished",
+    "path": ""
+  },
+  "9c8fb7c0-d760-413b-9b6b-bd88223e79b7": {
+    "id": "9c8fb7c0-d760-413b-9b6b-bd88223e79b7",
+    "name": "siege-ram",
+    "path": ""
+  },
+  "9c8fb7c1-9ba0-405e-a65d-dca7d0a6cfb1": {
+    "id": "9c8fb7c1-9ba0-405e-a65d-dca7d0a6cfb1",
+    "name": "siege-tower-demolished",
+    "path": ""
+  },
+  "9c8fb7c1-d9ee-46e9-94bd-5d1f1fa73539": {
+    "id": "9c8fb7c1-d9ee-46e9-94bd-5d1f1fa73539",
+    "name": "siege-tower",
+    "path": ""
+  },
+  "9c8fb7c2-aa68-4f2c-a152-2ce98a4e3ed2": {
+    "id": "9c8fb7c2-aa68-4f2c-a152-2ce98a4e3ed2",
+    "name": "siege-trebuchet-demolished",
+    "path": ""
+  },
+  "9c8fb7c2-ef46-47c4-b72f-005a074c9b4c": {
+    "id": "9c8fb7c2-ef46-47c4-b72f-005a074c9b4c",
+    "name": "siege-trebuchet",
+    "path": ""
+  },
+  "9c8fb851-cb6c-4dbc-aa0b-c5ffe8bff497": {
+    "id": "9c8fb851-cb6c-4dbc-aa0b-c5ffe8bff497",
+    "name": "sign",
+    "path": ""
+  },
+  "9c8fb854-6804-4655-b011-6962498c2e9d": {
+    "id": "9c8fb854-6804-4655-b011-6962498c2e9d",
+    "name": "spike-block-wide",
+    "path": ""
+  },
+  "9c8fb853-2c5a-4898-b880-02fa9a299d4a": {
+    "id": "9c8fb853-2c5a-4898-b880-02fa9a299d4a",
+    "name": "spike-block",
+    "path": ""
+  },
+  "9c8fb7c3-bfc0-4c6f-9ceb-e370e1d2be1e": {
+    "id": "9c8fb7c3-bfc0-4c6f-9ceb-e370e1d2be1e",
+    "name": "stairs-stone-square",
+    "path": ""
+  },
+  "9c8fb7c4-0322-413f-9647-6cf7fff329c9": {
+    "id": "9c8fb7c4-0322-413f-9647-6cf7fff329c9",
+    "name": "stairs-stone",
+    "path": ""
+  },
+  "9c8fb855-d11c-44a4-b4d7-e2f6d3140a0e": {
+    "id": "9c8fb855-d11c-44a4-b4d7-e2f6d3140a0e",
+    "name": "stones",
+    "path": ""
+  },
+  "9c8fb7c4-eb2a-4b7d-9595-8b701310f41f": {
+    "id": "9c8fb7c4-eb2a-4b7d-9595-8b701310f41f",
+    "name": "tower-base",
+    "path": ""
+  },
+  "9c8fb7c5-d314-43f6-b5e7-9fed5c633af5": {
+    "id": "9c8fb7c5-d314-43f6-b5e7-9fed5c633af5",
+    "name": "tower-hexagon-base",
+    "path": ""
+  },
+  "9c8fb7c6-2116-4956-bca4-d3b395fa22ff": {
+    "id": "9c8fb7c6-2116-4956-bca4-d3b395fa22ff",
+    "name": "tower-hexagon-mid",
+    "path": ""
+  },
+  "9c8fb7c7-1b5c-4319-b9ab-9f2441d881d7": {
+    "id": "9c8fb7c7-1b5c-4319-b9ab-9f2441d881d7",
+    "name": "tower-hexagon-roof-secondary",
+    "path": ""
+  },
+  "9c8fb7c8-24fc-4f0a-b4f1-c6a74eef9c67": {
+    "id": "9c8fb7c8-24fc-4f0a-b4f1-c6a74eef9c67",
+    "name": "tower-hexagon-roof",
+    "path": ""
+  },
+  "9c8fb7c9-2dde-48e0-8fad-d5f80fabe6ec": {
+    "id": "9c8fb7c9-2dde-48e0-8fad-d5f80fabe6ec",
+    "name": "tower-hexagon-top-wood",
+    "path": ""
+  },
+  "9c8fb7ca-5b28-47d2-9575-aad9e1e6fe29": {
+    "id": "9c8fb7ca-5b28-47d2-9575-aad9e1e6fe29",
+    "name": "tower-hexagon-top",
+    "path": ""
+  },
+  "9c8fb7cb-6c16-462d-add7-d4f28284fe8b": {
+    "id": "9c8fb7cb-6c16-462d-add7-d4f28284fe8b",
+    "name": "tower-slant-roof",
+    "path": ""
+  },
+  "9c8fb7cb-d16a-4653-b738-13a33c9ce88e": {
+    "id": "9c8fb7cb-d16a-4653-b738-13a33c9ce88e",
+    "name": "tower-square-arch",
+    "path": ""
+  },
+  "9c8fb7cd-ef0e-47bb-b585-db78a340dd64": {
+    "id": "9c8fb7cd-ef0e-47bb-b585-db78a340dd64",
+    "name": "tower-square-base-border",
+    "path": ""
+  },
+  "9c8fb7ce-3d38-492d-9e74-53667802b156": {
+    "id": "9c8fb7ce-3d38-492d-9e74-53667802b156",
+    "name": "tower-square-base-color",
+    "path": ""
+  },
+  "9c8fb7cf-46ce-429b-8624-4254834d4b1c": {
+    "id": "9c8fb7cf-46ce-429b-8624-4254834d4b1c",
+    "name": "tower-square-base",
+    "path": ""
+  },
+  "9c8fb7d0-5730-4ce3-bd50-3d49fb854deb": {
+    "id": "9c8fb7d0-5730-4ce3-bd50-3d49fb854deb",
+    "name": "tower-square-mid-color",
+    "path": ""
+  },
+  "9c8fb7d0-ad52-4530-bc82-509f24b80df2": {
+    "id": "9c8fb7d0-ad52-4530-bc82-509f24b80df2",
+    "name": "tower-square-mid-door",
+    "path": ""
+  },
+  "9c8fb7d2-e766-4aac-a700-a52b7c99aa77": {
+    "id": "9c8fb7d2-e766-4aac-a700-a52b7c99aa77",
+    "name": "tower-square-mid-open-simple",
+    "path": ""
+  },
+  "9c8fb7d3-3be4-4ecb-b237-1d7b102ed2b7": {
+    "id": "9c8fb7d3-3be4-4ecb-b237-1d7b102ed2b7",
+    "name": "tower-square-mid-open",
+    "path": ""
+  },
+  "9c8fb7d4-3922-4930-8af4-ff695371cf21": {
+    "id": "9c8fb7d4-3922-4930-8af4-ff695371cf21",
+    "name": "tower-square-mid-windows",
+    "path": ""
+  },
+  "9c8fb7d5-3d0e-4dc1-819c-1defb26c41ec": {
+    "id": "9c8fb7d5-3d0e-4dc1-819c-1defb26c41ec",
+    "name": "tower-square-mid",
+    "path": ""
+  },
+  "9c8fb7d6-4d34-4c9f-be0d-2f4dd2f96d52": {
+    "id": "9c8fb7d6-4d34-4c9f-be0d-2f4dd2f96d52",
+    "name": "tower-square-roof",
+    "path": ""
+  },
+  "9c8fb7d6-a7b6-49d5-ae1c-d76100da048b": {
+    "id": "9c8fb7d6-a7b6-49d5-ae1c-d76100da048b",
+    "name": "tower-square-top-color",
+    "path": ""
+  },
+  "9c8fb7d7-b2d2-4a53-a602-f7f3c744bf93": {
+    "id": "9c8fb7d7-b2d2-4a53-a602-f7f3c744bf93",
+    "name": "tower-square-top-roof-high-windows",
+    "path": ""
+  },
+  "9c8fb7d9-9674-4c0e-ae3e-577b2a6259c6": {
+    "id": "9c8fb7d9-9674-4c0e-ae3e-577b2a6259c6",
+    "name": "tower-square-top-roof-high",
+    "path": ""
+  },
+  "9c8fb7da-f9d8-43af-b548-80d506c898fc": {
+    "id": "9c8fb7da-f9d8-43af-b548-80d506c898fc",
+    "name": "tower-square-top-roof-rounded",
+    "path": ""
+  },
+  "9c8fb7dc-5f1c-4ae1-aee6-76d9ba1e5da8": {
+    "id": "9c8fb7dc-5f1c-4ae1-aee6-76d9ba1e5da8",
+    "name": "tower-square-top-roof",
+    "path": ""
+  },
+  "9c8fb7dc-bd5e-45cd-a62b-769e3475e16a": {
+    "id": "9c8fb7dc-bd5e-45cd-a62b-769e3475e16a",
+    "name": "tower-square-top",
+    "path": ""
+  },
+  "9c8fb7dd-e56c-45aa-a534-aeeaaa5cea2d": {
+    "id": "9c8fb7dd-e56c-45aa-a534-aeeaaa5cea2d",
+    "name": "tower-square",
+    "path": ""
+  },
+  "9c8fb7df-076c-4529-a47d-6846ad8c26d8": {
+    "id": "9c8fb7df-076c-4529-a47d-6846ad8c26d8",
+    "name": "tower-top",
+    "path": ""
+  },
+  "9c8fb858-be04-4ac8-acbf-0bc7ad5af358": {
+    "id": "9c8fb858-be04-4ac8-acbf-0bc7ad5af358",
+    "name": "trap-spikes-large",
+    "path": ""
+  },
+  "9c8fb857-52f8-4508-a059-2f2385dd2f26": {
+    "id": "9c8fb857-52f8-4508-a059-2f2385dd2f26",
+    "name": "trap-spikes",
+    "path": ""
+  },
+  "9c8fb7e0-1076-49ee-b7bf-0b1099d968b1": {
+    "id": "9c8fb7e0-1076-49ee-b7bf-0b1099d968b1",
+    "name": "tree-large",
+    "path": ""
+  },
+  "9c8fb7e1-e13a-4008-8a97-0cb3bafbed24": {
+    "id": "9c8fb7e1-e13a-4008-8a97-0cb3bafbed24",
+    "name": "tree-log",
+    "path": ""
+  },
+  "9c8fb85d-28b8-4f0d-baf1-52cac615cb36": {
+    "id": "9c8fb85d-28b8-4f0d-baf1-52cac615cb36",
+    "name": "tree-pine-small",
+    "path": ""
+  },
+  "9c8fb860-1a78-4081-b00c-275e411ff42b": {
+    "id": "9c8fb860-1a78-4081-b00c-275e411ff42b",
+    "name": "tree-pine-snow-small",
+    "path": ""
+  },
+  "9c8fb85e-aa76-4868-9ae9-48d52432f542": {
+    "id": "9c8fb85e-aa76-4868-9ae9-48d52432f542",
+    "name": "tree-pine-snow",
+    "path": ""
+  },
+  "9c8fb85b-ad8a-49ad-b9ad-f2cf1817a91b": {
+    "id": "9c8fb85b-ad8a-49ad-b9ad-f2cf1817a91b",
+    "name": "tree-pine",
+    "path": ""
+  },
+  "9c8fb7e2-406c-4858-af2b-fee88e97d370": {
+    "id": "9c8fb7e2-406c-4858-af2b-fee88e97d370",
+    "name": "tree-small",
+    "path": ""
+  },
+  "9c8fb861-8a8e-4dcd-af60-7356db0c628d": {
+    "id": "9c8fb861-8a8e-4dcd-af60-7356db0c628d",
+    "name": "tree-snow",
+    "path": ""
+  },
+  "9c8fb7e3-6c76-4fa8-a11a-e6c3d35e0583": {
+    "id": "9c8fb7e3-6c76-4fa8-a11a-e6c3d35e0583",
+    "name": "tree-trunk",
+    "path": ""
+  },
+  "9c8fb85a-2816-4e66-aadd-a766a1bd1d88": {
+    "id": "9c8fb85a-2816-4e66-aadd-a766a1bd1d88",
+    "name": "tree",
+    "path": ""
+  },
+  "9c8fb7e4-9632-489a-976f-d3cd0c706aed": {
+    "id": "9c8fb7e4-9632-489a-976f-d3cd0c706aed",
+    "name": "wall-corner-half-tower",
+    "path": ""
+  },
+  "9c8fb7e5-c516-415a-9815-6589b1ddca9f": {
+    "id": "9c8fb7e5-c516-415a-9815-6589b1ddca9f",
+    "name": "wall-corner-half",
+    "path": ""
+  },
+  "9c8fb7e6-da96-4188-bcd3-7a0723375b5a": {
+    "id": "9c8fb7e6-da96-4188-bcd3-7a0723375b5a",
+    "name": "wall-corner-slant",
+    "path": ""
+  },
+  "9c8fb7e8-0b5a-438a-b6fd-0433ceae62a8": {
+    "id": "9c8fb7e8-0b5a-438a-b6fd-0433ceae62a8",
+    "name": "wall-corner",
+    "path": ""
+  },
+  "9c8fb7e9-7a80-4984-a1f8-4b8fb4953b28": {
+    "id": "9c8fb7e9-7a80-4984-a1f8-4b8fb4953b28",
+    "name": "wall-doorway",
+    "path": ""
+  },
+  "9c8fb7e9-ff32-4a9a-927f-d42ad681a7df": {
+    "id": "9c8fb7e9-ff32-4a9a-927f-d42ad681a7df",
+    "name": "wall-half-modular",
+    "path": ""
+  },
+  "9c8fb7eb-f7f6-42a1-947e-9303ac086048": {
+    "id": "9c8fb7eb-f7f6-42a1-947e-9303ac086048",
+    "name": "wall-half",
+    "path": ""
+  },
+  "9c8fb7ed-2bbc-466a-b9ac-925cb7428b0b": {
+    "id": "9c8fb7ed-2bbc-466a-b9ac-925cb7428b0b",
+    "name": "wall-narrow-corner",
+    "path": ""
+  },
+  "9c8fb7ee-6752-4b25-a6c6-bb37a49efb5c": {
+    "id": "9c8fb7ee-6752-4b25-a6c6-bb37a49efb5c",
+    "name": "wall-narrow-gate",
+    "path": ""
+  },
+  "9c8fb7ee-e376-410b-9591-c2dc88983850": {
+    "id": "9c8fb7ee-e376-410b-9591-c2dc88983850",
+    "name": "wall-narrow-stairs-rail",
+    "path": ""
+  },
+  "9c8fb7ef-eba4-449e-9f8d-4044dfd3850d": {
+    "id": "9c8fb7ef-eba4-449e-9f8d-4044dfd3850d",
+    "name": "wall-narrow-stairs",
+    "path": ""
+  },
+  "9c8fb7f1-12f4-437e-816d-1592fa4dc7fb": {
+    "id": "9c8fb7f1-12f4-437e-816d-1592fa4dc7fb",
+    "name": "wall-narrow-wood-fence",
+    "path": ""
+  },
+  "9c8fb7f2-38dc-41ca-943a-4a9084262396": {
+    "id": "9c8fb7f2-38dc-41ca-943a-4a9084262396",
+    "name": "wall-narrow-wood",
+    "path": ""
+  },
+  "9c8fb7f3-7120-4f8a-be67-a489fdeb81db": {
+    "id": "9c8fb7f3-7120-4f8a-be67-a489fdeb81db",
+    "name": "wall-narrow",
+    "path": ""
+  },
+  "9c8fb7f3-f7bc-48b2-99c6-24005d3d2380": {
+    "id": "9c8fb7f3-f7bc-48b2-99c6-24005d3d2380",
+    "name": "wall-pillar",
+    "path": ""
+  },
+  "9c8fb7f5-10d4-4437-a11e-6034b970b655": {
+    "id": "9c8fb7f5-10d4-4437-a11e-6034b970b655",
+    "name": "wall-stud",
+    "path": ""
+  },
+  "9c8fb7f6-5606-41f9-82a0-8aa2282887f9": {
+    "id": "9c8fb7f6-5606-41f9-82a0-8aa2282887f9",
+    "name": "wall-to-narrow",
+    "path": ""
+  },
+  "9c8fb7f7-7eaa-4e74-b503-b6f9b623907d": {
+    "id": "9c8fb7f7-7eaa-4e74-b503-b6f9b623907d",
+    "name": "wall",
+    "path": ""
+  }
+}

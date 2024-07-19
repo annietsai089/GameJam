@@ -1,0 +1,10 @@
+{
+  "name": "block-snow-hexagon",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb8b5-aefc-4e96-bfac-09b43ea1ea0e",
+  "fileKey": "block-snow-hexagon.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_platformer-kit\\Models\\GLB format\\block-snow-hexagon.glb"
+}

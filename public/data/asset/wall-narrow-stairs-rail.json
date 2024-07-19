@@ -1,0 +1,10 @@
+{
+  "name": "wall-narrow-stairs-rail",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb7ee-e376-410b-9591-c2dc88983850",
+  "fileKey": "wall-narrow-stairs-rail.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_castle-kit\\Models\\GLB format\\wall-narrow-stairs-rail.glb"
+}

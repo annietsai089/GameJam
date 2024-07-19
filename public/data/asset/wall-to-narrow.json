@@ -1,0 +1,10 @@
+{
+  "name": "wall-to-narrow",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c8fb7f6-5606-41f9-82a0-8aa2282887f9",
+  "fileKey": "wall-to-narrow.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_castle-kit\\Models\\GLB format\\wall-to-narrow.glb"
+}
