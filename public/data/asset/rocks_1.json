@@ -1,0 +1,10 @@
+{
+  "name": "rocks 1",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c91654f-cc1e-4768-a37d-5141d2ea206b",
+  "fileKey": "rocks_1.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_mini-dungeon\\Models\\GLB format\\rocks.glb"
+}

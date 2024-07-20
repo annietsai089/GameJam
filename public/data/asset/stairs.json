@@ -1,0 +1,10 @@
+{
+  "name": "stairs",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c916550-d50a-4199-b09c-973ff5d6077d",
+  "fileKey": "stairs.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_mini-dungeon\\Models\\GLB format\\stairs.glb"
+}

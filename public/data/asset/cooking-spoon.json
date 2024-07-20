@@ -1,0 +1,10 @@
+{
+  "name": "cooking-spoon",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c91562e-ce42-4d6e-a2b3-efbcef9cb445",
+  "fileKey": "cooking-spoon.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_food-kit\\Models\\GLB format\\cooking-spoon.glb"
+}

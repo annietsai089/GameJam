@@ -1,0 +1,10 @@
+{
+  "name": "taco",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c9156df-ec7c-4110-a84d-428c744176d6",
+  "fileKey": "taco.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_food-kit\\Models\\GLB format\\taco.glb"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "glass",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c915657-7c70-47a8-8c42-89bd77b929b1",
+  "fileKey": "glass.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_food-kit\\Models\\GLB format\\glass.glb"
+}

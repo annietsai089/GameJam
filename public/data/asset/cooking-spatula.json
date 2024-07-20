@@ -1,0 +1,10 @@
+{
+  "name": "cooking-spatula",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c91562d-8fbe-45b5-9328-cc65669d750f",
+  "fileKey": "cooking-spatula.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_food-kit\\Models\\GLB format\\cooking-spatula.glb"
+}

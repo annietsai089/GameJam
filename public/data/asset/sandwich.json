@@ -1,0 +1,10 @@
+{
+  "name": "sandwich",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c9156c1-2972-4c03-9530-bfd98def9efd",
+  "fileKey": "sandwich.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_food-kit\\Models\\GLB format\\sandwich.glb"
+}

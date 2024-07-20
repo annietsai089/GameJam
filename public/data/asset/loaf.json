@@ -1,0 +1,10 @@
+{
+  "name": "loaf",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c91566c-c4a4-4096-a931-445a3a9632b1",
+  "fileKey": "loaf.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_food-kit\\Models\\GLB format\\loaf.glb"
+}

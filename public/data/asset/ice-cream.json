@@ -1,0 +1,10 @@
+{
+  "name": "ice-cream",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c915662-b6a8-4f82-8730-1fc8be4ae9b9",
+  "fileKey": "ice-cream.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_food-kit\\Models\\GLB format\\ice-cream.glb"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "plate-broken",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c9156a3-7256-46d6-ba09-2e9c5a998cbc",
+  "fileKey": "plate-broken.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_food-kit\\Models\\GLB format\\plate-broken.glb"
+}

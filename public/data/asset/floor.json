@@ -1,0 +1,10 @@
+{
+  "name": "floor",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c91654e-7c74-41f8-b8b9-4450c3a2a1a4",
+  "fileKey": "floor.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_mini-dungeon\\Models\\GLB format\\floor.glb"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "meat-cooked",
+  "path": "",
+  "type": "mesh",
+  "collisionDetection": true,
+  "id": "9c915673-790c-4cc5-bf0f-b56057a5600a",
+  "fileKey": "meat-cooked.glb",
+  "fileFormat": "glb",
+  "sourceFile": "C:\\Users\\annie\\Downloads\\kenney_food-kit\\Models\\GLB format\\meat-cooked.glb"
+}
