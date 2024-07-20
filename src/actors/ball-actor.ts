@@ -1,5 +1,5 @@
 import { PhysicalShapeMesh, SphereCollisionShape } from "@hology/core";
-import { Actor, BaseActor, PhysicsBodyType, PhysicsSystem, attach, inject } from "@hology/core/gameplay";
+import { Actor, AssetLoader, BaseActor, PhysicsBodyType, PhysicsSystem, attach, inject } from "@hology/core/gameplay";
 import { MeshComponent } from "@hology/core/gameplay/actors";
 import { AxisInput } from "@hology/core/gameplay/input";
 import { NodeShaderMaterial, rgba, select, varyingAttributes } from "@hology/core/shader-nodes";
@@ -11,24 +11,24 @@ const ballMaterial = new NodeShaderMaterial({
 
 @Actor()
 class BallActor extends BaseActor {  
-  private mesh = attach(MeshComponent<PhysicalShapeMesh>, {
-    object: new PhysicalShapeMesh(
-      new SphereGeometry(.2, 50, 50), 
-      ballMaterial, 
-      new SphereCollisionShape(0.2)),
-    bodyType: PhysicsBodyType.dynamic,
-    mass: 2,
-    friction: 1
-  })
+  
   
   private physicsSystem = inject(PhysicsSystem)
   public readonly axisInput = new AxisInput()
   public readonly direction = new Vector3() 
 
-  onInit() {
-    this.physicsSystem.setLinearDamping(this, .2)
-    this.physicsSystem.setAngularDamping(this, 5)
+  private assetLoader = inject(AssetLoader)
 
+  async onInit() {
+    
+    this.physicsSystem.addActor(this,[new SphereCollisionShape(0.2)],{
+    type: PhysicsBodyType.dynamic,
+    mass: 2,
+    friction: 1
+  })
+    this.physicsSystem.showDebug=true
+    this.physicsSystem.setLinearDamping(this, .2)
+    this.physicsSystem.setAngularDamping(this, 10)
     const rotation = new Euler().set(0, this.rotation.y, 0)
     const impulse = new Vector3()
 
@@ -48,6 +48,9 @@ class BallActor extends BaseActor {
 
       this.physicsSystem.applyImpulse(this, impulse)
     })
+    const { scene, animations } = await this.assetLoader.getModelByAssetName('burger')
+    scene.translateY(-0.15)
+    this.object.add(scene)
   }
   public moveTo(position: Vector3) {
     this.position.copy(position)

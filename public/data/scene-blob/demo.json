@@ -78,8 +78,8 @@
       "name": "poles",
       "assetId": "9c8fb84d-790e-4685-843b-9f3fa028bb72",
       "position": [
-        -179.18351906529148,
-        107.84959003373764,
+        -179.18351906529145,
+        107.84959003373763,
         -405.3334162861717
       ],
       "scale": [
@@ -234,9 +234,9 @@
       "id": "b1c10b43-72d1-4cb6-be3e-461af7ff9f55",
       "name": "TriggerVolume",
       "position": [
-        -173,
-        108.2,
-        -334.5
+        -180.01107245431592,
+        108.20000000000003,
+        -335.83128663155804
       ],
       "scale": [
         1.3,
@@ -709,19 +709,19 @@
       "name": "platform-ramp",
       "assetId": "9c8fb84b-dc66-4a7c-bfef-e0d9aa504c34",
       "position": [
-        -171.32405869794033,
-        127.00000000000001,
-        -241.99999999999994
+        -171.32770018860646,
+        128.00510880743602,
+        -242.02350593632667
       ],
       "scale": [
-        17.246560807733527,
+        17.246560807733506,
         17.246560807733538,
-        30.63313267324929
+        30.63313267324924
       ],
       "rotation": [
-        2.792526803190927,
-        1.2246467991473547e-16,
-        -3.141592653589793,
+        2.7808886233786727,
+        -0.0051057727923125625,
+        3.133405676164105,
         "XYZ"
       ],
       "type": "asset_mesh",
@@ -1081,19 +1081,19 @@
       "name": "platform-ramp",
       "assetId": "9c8fb84b-dc66-4a7c-bfef-e0d9aa504c34",
       "position": [
-        -171.59694707354345,
-        108.98929581350929,
-        -268.23483657204275
+        -171.70216582709187,
+        111.26392423312016,
+        -268.06315770234914
       ],
       "scale": [
         17.246560807733506,
         17.246560807733538,
-        30.63313267324926
+        30.633132673249236
       ],
       "rotation": [
-        2.792526803190927,
-        1.2246467991473557e-16,
-        -3.141592653589793,
+        2.7808886233786727,
+        -0.0051057727923125625,
+        3.133405676164105,
         "XYZ"
       ],
       "type": "asset_mesh",
@@ -1548,7 +1548,7 @@
       "position": [
         -172.13457530207955,
         111.7869374010711,
-        -84.27971613768497
+        -91.73109042020269
       ],
       "scale": [
         18.83434904197431,
@@ -1557,7 +1557,7 @@
       ],
       "rotation": [
         -3.043201009305835,
-        0.0007670852813970403,
+        0.00076708528139704,
         -3.141592653589793,
         "XYZ"
       ],
@@ -3220,19 +3220,19 @@
       "name": "wood-structure",
       "assetId": "9c916558-fa46-4381-a26b-8fca2e90dcec",
       "position": [
-        -161.6677874313756,
-        58.329724314530864,
-        815.9531426310018
+        -161.66778743137556,
+        63.9022718237723,
+        815.9531426310019
       ],
       "scale": [
-        35.33209165429602,
-        52.46520601147115,
-        29.340542349434926
+        35.33209165429603,
+        42.34765050764347,
+        29.34054234943493
       ],
       "rotation": [
-        0.002844082034770583,
-        0.04085344355569664,
-        -0.022674377364646302,
+        0.0028440820347705826,
+        0.040853443555696645,
+        -0.0226743773646463,
         "XYZ"
       ],
       "type": "asset_mesh",
@@ -3650,37 +3650,6 @@
       }
     },
     {
-      "id": "c75f4c66-82b2-493d-875e-b0df3cc198e7",
-      "name": "ground-hills",
-      "assetId": "9c8fb7bc-51b8-432b-b883-458d3b9b7fdb",
-      "position": [
-        -117.09747436958754,
-        122.05995394447693,
-        836.1736870184276
-      ],
-      "scale": [
-        18.71212275098801,
-        18.712122750987998,
-        18.712122750988012
-      ],
-      "rotation": [
-        3.036268274907261,
-        -0.15175004398461264,
-        -3.141592653589793,
-        "XYZ"
-      ],
-      "type": "asset_mesh",
-      "materialAssignments": [],
-      "collisionDetection": true,
-      "physics": {
-        "type": 2,
-        "friction": 0.5,
-        "density": 1,
-        "restitution": 0.5,
-        "mass": 1
-      }
-    },
-    {
       "id": "adbf90e6-f0e4-47b3-bf0b-35fd0e2ec4c5",
       "name": "block-grass-overhang-low-large",
       "assetId": "9c8fb83f-789a-4c6c-9c38-af2bb0e9ce64",
@@ -3696,37 +3665,6 @@
       ],
       "rotation": [
         -0.048274809097259806,
-        0,
-        0,
-        "XYZ"
-      ],
-      "type": "asset_mesh",
-      "materialAssignments": [],
-      "collisionDetection": true,
-      "physics": {
-        "type": 2,
-        "friction": 0.5,
-        "density": 1,
-        "restitution": 0.5,
-        "mass": 1
-      }
-    },
-    {
-      "id": "14701ef5-81fa-4b37-892b-b007b8b4dd5e",
-      "name": "bridge-straight",
-      "assetId": "9c8fb7ba-2226-44c1-9eae-db115402f684",
-      "position": [
-        -156.6390928209113,
-        122.19666031500117,
-        766.9636982638066
-      ],
-      "scale": [
-        28.348746214402528,
-        28.348746214402528,
-        28.348746214402528
-      ],
-      "rotation": [
-        0,
         0,
         0,
         "XYZ"
@@ -3809,18 +3747,18 @@
       "name": "block-snow-overhang-large-slope-narrow",
       "assetId": "9c8fb8ca-c882-4278-a2b8-106870157ba6",
       "position": [
-        -99.01708151004898,
-        24.693203996741673,
-        629.9738541025756
+        -99.01708151004904,
+        24.693203996741666,
+        622.6795652627027
       ],
       "scale": [
-        14.151828555175337,
-        5.721560990503577,
+        27.074133617545723,
+        5.7215609905035745,
         5.721560990503579
       ],
       "rotation": [
         3.141592653589793,
-        -1.4920828701039983,
+        -1.4920828701039954,
         3.141592653589793,
         "XYZ"
       ],
@@ -3840,205 +3778,19 @@
       "name": "block-snow-overhang-large-slope-narrow",
       "assetId": "9c8fb8ca-c882-4278-a2b8-106870157ba6",
       "position": [
-        -154.3568849008181,
-        41.25988167255666,
-        667.7298558939941
+        -156.70209730726822,
+        42.5883954253902,
+        673.149438395029
       ],
       "scale": [
-        12.789023239547223,
-        5.114786419806378,
-        8.523542927803362
+        100.34944394410958,
+        13.31877629588983,
+        20.097084952008178
       ],
       "rotation": [
-        3.141592653589793,
-        5.826458553272088e-16,
-        -2.8289786479818413,
-        "XYZ"
-      ],
-      "type": "asset_mesh",
-      "materialAssignments": [],
-      "collisionDetection": true,
-      "physics": {
-        "type": 2,
-        "friction": 0.5,
-        "density": 1,
-        "restitution": 0.5,
-        "mass": 1
-      }
-    },
-    {
-      "id": "128a2648-cb17-430a-af45-1e67d3b94833",
-      "name": "door-large-open",
-      "assetId": "9c8fb878-9c10-4740-9074-e9692451561c",
-      "position": [
-        -1.2724126387189076,
-        19.935859188954385,
-        663.4099259671557
-      ],
-      "scale": [
-        32.21025287358086,
-        29.9642755289733,
-        29.964275528973303
-      ],
-      "rotation": [
-        0,
-        1.1901488873856354,
-        0,
-        "XYZ"
-      ],
-      "type": "asset_mesh",
-      "materialAssignments": [],
-      "collisionDetection": true,
-      "physics": {
-        "type": 2,
-        "friction": 0.5,
-        "density": 1,
-        "restitution": 0.5,
-        "mass": 1
-      }
-    },
-    {
-      "id": "076fe73a-3a9f-4187-ab86-1adb0af4460c",
-      "name": "door-large-open",
-      "assetId": "9c8fb878-9c10-4740-9074-e9692451561c",
-      "position": [
-        15.968132137361764,
-        20.682768702656247,
-        671.6690969557095
-      ],
-      "scale": [
-        32.21025287358087,
-        29.9642755289733,
-        29.964275528973324
-      ],
-      "rotation": [
-        0,
-        1.2598359118881008,
-        0,
-        "XYZ"
-      ],
-      "type": "asset_mesh",
-      "materialAssignments": [],
-      "collisionDetection": true,
-      "physics": {
-        "type": 2,
-        "friction": 0.5,
-        "density": 1,
-        "restitution": 0.5,
-        "mass": 1
-      }
-    },
-    {
-      "id": "cac726e4-55d5-4ef0-b82f-4418957ae8bd",
-      "name": "door-large-open",
-      "assetId": "9c8fb878-9c10-4740-9074-e9692451561c",
-      "position": [
-        33.21989066347294,
-        20.68276870265625,
-        683.296066361825
-      ],
-      "scale": [
-        32.21025287358086,
-        29.9642755289733,
-        29.964275528973307
-      ],
-      "rotation": [
-        0,
-        0.9882857612372973,
-        0,
-        "XYZ"
-      ],
-      "type": "asset_mesh",
-      "materialAssignments": [],
-      "collisionDetection": true,
-      "physics": {
-        "type": 2,
-        "friction": 0.5,
-        "density": 1,
-        "restitution": 0.5,
-        "mass": 1
-      }
-    },
-    {
-      "id": "15652213-80ea-40e5-a047-6a0a398473de",
-      "name": "door-large-open",
-      "assetId": "9c8fb878-9c10-4740-9074-e9692451561c",
-      "position": [
-        46.494890816727015,
-        20.682768702656237,
-        698.0053271625898
-      ],
-      "scale": [
-        32.21025287358086,
-        29.964275528973292,
-        29.964275528973303
-      ],
-      "rotation": [
-        0,
-        0.6135408962816618,
-        0,
-        "XYZ"
-      ],
-      "type": "asset_mesh",
-      "materialAssignments": [],
-      "collisionDetection": true,
-      "physics": {
-        "type": 2,
-        "friction": 0.5,
-        "density": 1,
-        "restitution": 0.5,
-        "mass": 1
-      }
-    },
-    {
-      "id": "da3dfebd-0643-45f1-8b43-319f0a4d9a56",
-      "name": "door-large-open",
-      "assetId": "9c8fb878-9c10-4740-9074-e9692451561c",
-      "position": [
-        51.80088693457341,
-        16.81513676416742,
-        714.7214170682008
-      ],
-      "scale": [
-        32.21025287358086,
-        29.964275528973292,
-        29.964275528973303
-      ],
-      "rotation": [
-        0,
-        0.25068765324544956,
-        0,
-        "XYZ"
-      ],
-      "type": "asset_mesh",
-      "materialAssignments": [],
-      "collisionDetection": true,
-      "physics": {
-        "type": 2,
-        "friction": 0.5,
-        "density": 1,
-        "restitution": 0.5,
-        "mass": 1
-      }
-    },
-    {
-      "id": "ea540496-caf4-493e-8c40-5f0151f08744",
-      "name": "door-large-open",
-      "assetId": "9c8fb878-9c10-4740-9074-e9692451561c",
-      "position": [
-        59.233637040027375,
-        15.755753979400666,
-        733.2833608468814
-      ],
-      "scale": [
-        32.21025287358086,
-        29.964275528973292,
-        29.9642755289733
-      ],
-      "rotation": [
-        0,
-        0.2506876532454495,
-        0,
+        2.792940907869912,
+        -0.15358784091354885,
+        -2.8560144793807187,
         "XYZ"
       ],
       "type": "asset_mesh",
@@ -4243,18 +3995,18 @@
       "name": "block-snow-large-slope",
       "assetId": "9c8fb8b8-a508-4c48-a5c4-5ffed1b614ca",
       "position": [
-        66.47369438600634,
-        1.2034869223985625,
+        66.47369438600629,
+        1.2034869223985651,
         913.7410806649183
       ],
       "scale": [
-        23.547526532532014,
-        16.836544677510627,
-        16.83654467751062
+        26.223044510388764,
+        18.02958476206972,
+        16.285316984853836
       ],
       "rotation": [
-        -3.141592653589793,
-        0.7044966903651632,
+        -3.1157680731081365,
+        0.7044966903651627,
         -3.141592653589793,
         "XYZ"
       ],
@@ -4301,55 +4053,18 @@
       }
     },
     {
-      "id": "6fafcd81-56d1-4892-b783-4b1f1f867619",
-      "name": "floor-detail",
-      "assetId": "9c91654d-a2e0-4551-8721-c9831550ead3",
-      "position": [
-        126.3766628350213,
-        11.087881968707888,
-        863.666417046804
-      ],
-      "scale": [
-        55.39701714928234,
-        55.39701714928234,
-        55.39701714928234
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        "XYZ"
-      ],
-      "type": "asset_mesh",
-      "materialAssignments": [
-        {
-          "color": "#ffffff",
-          "materialId": "9c912153-211e-4316-bcba-3e9a30ee3897",
-          "name": "colormap"
-        }
-      ],
-      "collisionDetection": true,
-      "physics": {
-        "type": 2,
-        "friction": 0.5,
-        "density": 1,
-        "restitution": 0.5,
-        "mass": 1
-      }
-    },
-    {
       "id": "70f0b7c4-e990-4f5c-bb44-d21e7d1f4f8f",
       "name": "tree-pine-snow",
       "assetId": "9c8fb85e-aa76-4868-9ae9-48d52432f542",
       "position": [
-        158.81183396092064,
-        7.499733509662285,
+        158.81183396092067,
+        7.499733509662286,
         904.5204742178847
       ],
       "scale": [
-        19.5703046236423,
-        19.5703046236423,
-        19.5703046236423
+        17.192307100521656,
+        17.192307100521656,
+        17.192307100521656
       ],
       "rotation": [
         0,
@@ -4386,6 +4101,1029 @@
         0,
         0,
         0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "5f8e12c8-fa64-4a39-9cbb-e70ad88dc5ee",
+      "name": "cauliflower",
+      "assetId": "9c915616-759a-4a31-b6b7-58cbc6fac234",
+      "position": [
+        128.2174802424337,
+        6.961097618308953,
+        890.054620430294
+      ],
+      "scale": [
+        46.25570147676532,
+        37.32336810293932,
+        41.534456949502406
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "5043c739-d2b4-465c-a9aa-4715f19d40be",
+      "name": "cauliflower",
+      "assetId": "9c915616-759a-4a31-b6b7-58cbc6fac234",
+      "position": [
+        116.4027313210803,
+        10.918725348545358,
+        845.6329192419879
+      ],
+      "scale": [
+        46.25570147676532,
+        37.32336810293932,
+        41.534456949502406
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "5eab50f8-79e7-4fc0-b074-d42a4ba27437",
+      "name": "cauliflower",
+      "assetId": "9c915616-759a-4a31-b6b7-58cbc6fac234",
+      "position": [
+        54.468281060572444,
+        7.619008399718209,
+        870.9573119908198
+      ],
+      "scale": [
+        46.25570147676532,
+        37.32336810293932,
+        41.534456949502406
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "d9807628-650b-445f-bb3d-ab27a7e3f914",
+      "name": "cauliflower",
+      "assetId": "9c915616-759a-4a31-b6b7-58cbc6fac234",
+      "position": [
+        87.07121526543173,
+        8.37639665455625,
+        868.5691240031157
+      ],
+      "scale": [
+        34.88806806793327,
+        28.150912543266784,
+        31.32709947003528
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "ab2d319e-576b-4105-bd78-d79f7ab729fd",
+      "name": "cauliflower",
+      "assetId": "9c915616-759a-4a31-b6b7-58cbc6fac234",
+      "position": [
+        101.02627995397488,
+        5.529597702805663,
+        906.7969907160242
+      ],
+      "scale": [
+        35.47967516362545,
+        28.628275737421806,
+        31.85832218772315
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "9aa071ae-99df-49f8-8224-e301057d2c85",
+      "name": "cauliflower",
+      "assetId": "9c915616-759a-4a31-b6b7-58cbc6fac234",
+      "position": [
+        75.46944132891417,
+        11.216324912756914,
+        832.4278135515195
+      ],
+      "scale": [
+        34.88806806793327,
+        28.150912543266784,
+        31.32709947003527
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "c54df40c-58bd-45d1-a39e-e35d716d4beb",
+      "name": "tree-pine-snow",
+      "assetId": "9c8fb85e-aa76-4868-9ae9-48d52432f542",
+      "position": [
+        162.09958368300855,
+        8.629322329215217,
+        893.2628238212706
+      ],
+      "scale": [
+        20.760345754949768,
+        20.760345754949768,
+        20.760345754949768
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "a2805add-ea07-4c16-b9a2-6ebab718b71d",
+      "name": "meat-tenderizer",
+      "assetId": "9c91567a-9d5e-43f6-8235-9260071d9bba",
+      "position": [
+        -11.200839501283882,
+        15.983539692836388,
+        711.0309670497851
+      ],
+      "scale": [
+        51.46834175857593,
+        51.46834175857595,
+        51.46834175857595
+      ],
+      "rotation": [
+        -0.6848426284672382,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "e6479f5e-9435-48a4-b6c6-f78f69d60f0f",
+      "name": "advocado-half",
+      "assetId": "9c9155f2-b90c-4597-89bf-7403e81350b1",
+      "position": [
+        7.150926951632294,
+        19.305556335208408,
+        723.0935310858155
+      ],
+      "scale": [
+        74.57028926496338,
+        74.57028926496332,
+        74.57028926496336
+      ],
+      "rotation": [
+        -0.15478720099300058,
+        1.5059645500659595,
+        1.51310695936519,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "86888360-9786-4d8f-a3d7-3479ab8454a8",
+      "name": "advocado-half",
+      "assetId": "9c9155f2-b90c-4597-89bf-7403e81350b1",
+      "position": [
+        28.59755032679129,
+        22.93153427670846,
+        653.2878702371246
+      ],
+      "scale": [
+        74.57028926496339,
+        74.57028926496334,
+        74.57028926496336
+      ],
+      "rotation": [
+        -3.1298134665635398,
+        0.5586625593512646,
+        -1.7891966607718521,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "e011517c-1957-4bc0-bab6-9009738c5bd1",
+      "name": "advocado-half",
+      "assetId": "9c9155f2-b90c-4597-89bf-7403e81350b1",
+      "position": [
+        25.70515443230007,
+        20.60166499856542,
+        688.5814743785709
+      ],
+      "scale": [
+        74.57028926496338,
+        74.57028926496334,
+        74.57028926496339
+      ],
+      "rotation": [
+        -1.6231421026144242,
+        1.1292230276148494,
+        2.976992203800273,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "b76a1e32-e95a-4b4d-9e53-2ce10a3b4feb",
+      "name": "advocado-half",
+      "assetId": "9c9155f2-b90c-4597-89bf-7403e81350b1",
+      "position": [
+        66.21211371049563,
+        23.494979150452295,
+        703.6211389731976
+      ],
+      "scale": [
+        74.57028926496338,
+        74.57028926496332,
+        74.5702892649633
+      ],
+      "rotation": [
+        -1.9591763476342787,
+        0.9394644935176188,
+        -2.6096574705430973,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "f10e0ae2-7869-466b-bdc7-d71b0c53215d",
+      "name": "advocado-half",
+      "assetId": "9c9155f2-b90c-4597-89bf-7403e81350b1",
+      "position": [
+        -7.853971646246687,
+        21.533026120290256,
+        660.8270386378623
+      ],
+      "scale": [
+        74.57028926496342,
+        74.57028926496342,
+        74.57028926496345
+      ],
+      "rotation": [
+        1.6430287821127556,
+        1.2557810030106633,
+        -0.28062260443538567,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "a4732352-c836-46e2-81a9-2b1da1f3ef67",
+      "name": "fence-straight",
+      "assetId": "9c8fb889-1220-41b5-a76d-2fab15a58d0a",
+      "position": [
+        -141.93174029915411,
+        2.597634083079101,
+        1098.6223950351737
+      ],
+      "scale": [
+        70.3787247162034,
+        39.52629575360847,
+        36.03150697927681
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "b2425b7f-84e3-41fd-a9c4-c5aab6016f91",
+      "name": "fence-straight",
+      "assetId": "9c8fb889-1220-41b5-a76d-2fab15a58d0a",
+      "position": [
+        -213.06657216805553,
+        2.5276769166389816,
+        1098.9038137756077
+      ],
+      "scale": [
+        70.3787247162034,
+        39.52629575360847,
+        36.03150697927681
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "c61f25e8-8ed4-4bce-9fc7-06aff5d63add",
+      "name": "character-human",
+      "assetId": "9c916548-50ba-41a2-85af-811fab979de4",
+      "position": [
+        -179.00907113119382,
+        6.9556401991560115,
+        1100.0936264250288
+      ],
+      "scale": [
+        33.399342170100454,
+        33.39934217010045,
+        33.399342170100454
+      ],
+      "rotation": [
+        -3.141592653589793,
+        0.028947008542384998,
+        -3.141592653589793,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "60827723-0e73-4f13-9de6-2e3f88da5deb",
+      "name": "bottle-musterd",
+      "assetId": "9c9155fb-6a52-4733-a8d6-6d7b94e79b47",
+      "position": [
+        -192.47148505665837,
+        7.865115419394147,
+        1097.8806131230904
+      ],
+      "scale": [
+        21.127766166885923,
+        21.127766166885923,
+        21.127766166885923
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "fb8a1549-0956-4d86-8d72-013e70343f6e",
+      "name": "bottle-ketchup",
+      "assetId": "9c9155fa-75b6-4429-a24a-1f84f8beefbd",
+      "position": [
+        -198.018184370097,
+        8.122589604264494,
+        1095.7874592016954
+      ],
+      "scale": [
+        22.435642624674802,
+        22.435642624674802,
+        22.435642624674802
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "a4b563b7-0a80-420e-97b4-08d2a2eeb34d",
+      "name": "burger-cheese-double",
+      "assetId": "9c915602-deea-4229-88f0-310e77d3eed2",
+      "position": [
+        -159.50306003043522,
+        6.9734761104318626,
+        1104.237219510536
+      ],
+      "scale": [
+        25.94180591317525,
+        25.94180591317525,
+        25.94180591317525
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "70a92737-6dd3-4a2e-97ae-47cba2a842e1",
+      "name": "cake",
+      "assetId": "9c91560a-9090-4305-853d-bb51f692f5d2",
+      "position": [
+        -148.65518999419746,
+        7.292012475083059,
+        1102.539692540516
+      ],
+      "scale": [
+        19.154735219184474,
+        19.154735219184474,
+        19.154735219184474
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "b38a708e-0838-48be-a8e9-d3eb04cbb325",
+      "name": "can",
+      "assetId": "9c91560e-8826-411a-bfa9-d78513238414",
+      "position": [
+        -202.7480050566342,
+        5.839567546559769,
+        1108.4427535409288
+      ],
+      "scale": [
+        25.479431037842627,
+        25.47943103784263,
+        25.479431037842627
+      ],
+      "rotation": [
+        0.012818736261729932,
+        -0.008225665594460516,
+        -0.5704817630834358,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "e70047af-7d44-4ce1-a184-4c44e818f229",
+      "name": "carton",
+      "assetId": "9c915615-6060-41e8-b942-98090fbe1fdf",
+      "position": [
+        -211.4357021075265,
+        7.147325472414825,
+        1105.8237881130717
+      ],
+      "scale": [
+        32.27845548088953,
+        32.27845548088952,
+        32.27845548088953
+      ],
+      "rotation": [
+        0,
+        0.2190687230239477,
+        0,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "43e19a7d-753b-4465-a5dd-15bced79f505",
+      "name": "ginger-bread",
+      "assetId": "9c915655-b980-4cda-ae4a-904142be30af",
+      "position": [
+        -183.15392215309157,
+        129.02970230067052,
+        798.2410163511793
+      ],
+      "scale": [
+        65.43246739117784,
+        65.43246739117782,
+        65.43246739117778
+      ],
+      "rotation": [
+        -1.553503531680932e-15,
+        1.4633913125590616,
+        -1.4579418217023419,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "024c9410-c8bb-498f-a05c-2783779d3ded",
+      "name": "ginger-bread",
+      "assetId": "9c915655-b980-4cda-ae4a-904142be30af",
+      "position": [
+        -125.4957322351173,
+        131.077429550204,
+        806.7877612895778
+      ],
+      "scale": [
+        65.43246739117785,
+        65.4324673911778,
+        65.43246739117778
+      ],
+      "rotation": [
+        -3.1070070633618547e-15,
+        1.4633913125590616,
+        -1.4579418217023399,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "5bceeae6-4cca-4968-8fc9-b61c9a07e3ef",
+      "name": "ginger-bread",
+      "assetId": "9c915655-b980-4cda-ae4a-904142be30af",
+      "position": [
+        -160.7298884995687,
+        127.69692162362452,
+        752.5052671897502
+      ],
+      "scale": [
+        65.43246739117785,
+        65.4324673911778,
+        65.43246739117777
+      ],
+      "rotation": [
+        -3.1415926535897927,
+        1.3081899517213453,
+        1.683650831887449,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "6e5e3e58-69d4-4b76-b253-07a448aaebed",
+      "name": "ginger-bread",
+      "assetId": "9c915655-b980-4cda-ae4a-904142be30af",
+      "position": [
+        -147.81462837058174,
+        128.3821681850382,
+        787.405395582905
+      ],
+      "scale": [
+        65.43246739117787,
+        65.4324673911778,
+        65.43246739117777
+      ],
+      "rotation": [
+        -3.1415926535897927,
+        1.234254720595482,
+        1.6836508318874495,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "727a8548-48ea-44f3-afbc-9f7e9a418a7a",
+      "name": "ginger-bread",
+      "assetId": "9c915655-b980-4cda-ae4a-904142be30af",
+      "position": [
+        -185.48799953196604,
+        127.02715430438232,
+        763.4013939249185
+      ],
+      "scale": [
+        65.43246739117788,
+        65.43246739117778,
+        65.43246739117775
+      ],
+      "rotation": [
+        5.637318406443362e-16,
+        0.9387152160777728,
+        -1.4579418217023445,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "f2293530-2577-4824-8f95-527cb0873f65",
+      "name": "ginger-bread",
+      "assetId": "9c915655-b980-4cda-ae4a-904142be30af",
+      "position": [
+        -126.1510358191944,
+        128.53859691072913,
+        771.639528562736
+      ],
+      "scale": [
+        65.43246739117785,
+        65.43246739117775,
+        65.43246739117774
+      ],
+      "rotation": [
+        -3.1415926535897927,
+        1.3081899517213462,
+        1.6836508318874492,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "5362b318-0dad-4a8d-82e5-49a89dcb7329",
+      "name": "ginger-bread",
+      "assetId": "9c915655-b980-4cda-ae4a-904142be30af",
+      "position": [
+        -167.91821687970753,
+        131.3244917850415,
+        835.5756166772001
+      ],
+      "scale": [
+        65.43246739117795,
+        65.43246739117781,
+        65.43246739117782
+      ],
+      "rotation": [
+        4.423638429747345e-15,
+        1.2780097348256283,
+        -1.4579418217023505,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "70702eb2-2d8b-4fbb-9f36-47ac973b4f6b",
+      "name": "block-grass-large-slope-steep",
+      "assetId": "9c8fb8e0-d0a0-4278-bfa5-226b6433cd9c",
+      "position": [
+        -93.57779476786543,
+        18.210237408436857,
+        1004.0256127854369
+      ],
+      "scale": [
+        27.932210806627424,
+        3.4665554675488943,
+        8.539604717502625
+      ],
+      "rotation": [
+        0.12863137168293848,
+        -1.4943160874862689,
+        -8.35511246337483e-15,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "a01b6171-f0fe-4f45-9725-da46281f864d",
+      "name": "block-snow-large-slope-steep-narrow",
+      "assetId": "9c8fb8bd-2862-4f74-9ddc-7d5c3a8f1354",
+      "position": [
+        -197.3463214206019,
+        53.19655668326702,
+        670.4229919300318
+      ],
+      "scale": [
+        15.606677268686395,
+        15.606677268686354,
+        15.606677268686393
+      ],
+      "rotation": [
+        -3.114552290613055,
+        -0.07884813484990703,
+        -2.8108260568153223,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "5c48753c-537d-47fc-a993-6a379663f2eb",
+      "name": "block-snow-large-slope-narrow",
+      "assetId": "9c8fb8ba-4ad4-41c1-bbd8-7a2b73bc5ff1",
+      "position": [
+        87.99689653895128,
+        9.598801148415914,
+        823.7719936879159
+      ],
+      "scale": [
+        12.19273539791543,
+        8.866182631196246,
+        6.250206545931055
+      ],
+      "rotation": [
+        -0.016831238438317814,
+        0.39033113371763944,
+        0.04421050079699247,
+        "XYZ"
+      ],
+      "type": "asset_mesh",
+      "materialAssignments": [],
+      "collisionDetection": true,
+      "physics": {
+        "type": 2,
+        "friction": 0.5,
+        "density": 1,
+        "restitution": 0.5,
+        "mass": 1
+      }
+    },
+    {
+      "id": "5d0e5fae-e7a3-48d9-8022-92fe3bfe05b4",
+      "name": "block-snow-large-slope-narrow",
+      "assetId": "9c8fb8ba-4ad4-41c1-bbd8-7a2b73bc5ff1",
+      "position": [
+        54.99949776331196,
+        14.074904987757177,
+        740.2793321984769
+      ],
+      "scale": [
+        12.192735397915436,
+        8.866182631196244,
+        6.25020654593106
+      ],
+      "rotation": [
+        3.1320624731408433,
+        -0.2956559998547393,
+        3.095598479185646,
         "XYZ"
       ],
       "type": "asset_mesh",
